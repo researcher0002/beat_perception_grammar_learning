@@ -1,0 +1,5 @@
+﻿seq;online_dir;test_dir;audio_offline
+ConjL1_uns.csv;dir_Online_conjL1_uns.csv;Test_Conj_UnsyncL1.csv;ConjL1_unsync.wav
+WhatL2_uns.csv;dir_Online_whatL2_uns.csv;What_UnsyncL2_testdirs.csv;WhatL2_unsync.wav
+WhenL3_uns.csv;dir_Online_whenL3_uns.csv;When_UnsyncL3_testdirs.csv;WhenL3_unsync.wav
+ConjL4_syn.csv;dir_Online_conjL4_syn.csv;Test_Conj_SyncL4.csv;ConjL4_sync.wav

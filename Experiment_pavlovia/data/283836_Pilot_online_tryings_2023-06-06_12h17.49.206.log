@@ -1,0 +1,2533 @@
+4.3491 	WARNING 	We strongly recommend you activate the PTB sound engine in PsychoPy prefs as the preferred audio engine. Its timing is vastly superior. Your prefs are currently set to use ['sounddevice', 'PTB', 'pyo', 'pygame'] (in that order).
+15.9991 	EXP 	Created window1 = Window(allowGUI=True, allowStencil=False, autoLog=True, backendConf=UNKNOWN, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([1, 1, 1]), colorSpace='rgb', depthBits=8, fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x0000022EA1FC82B0>, gamma=None, gammaErrorPolicy='raise', lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x0000022EA7366D60>, multiSample=False, name='window1', numSamples=2, pos=(0, 0), screen=0, size=array([1920, 1080]), stencilBits=0, stereo=False, units='height', useFBO=True, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+15.9994 	EXP 	window1: mouseVisible = True
+15.9996 	EXP 	window1: mouseVisible = False
+15.9996 	EXP 	window1: Attempting to measure frame rate of screen (0) ...
+15.9997 	EXP 	window1: recordFrameIntervals = False
+16.1645 	EXP 	window1: recordFrameIntervals = True
+16.3482 	EXP 	Screen (0) actual frame rate measured at 59.92Hz
+16.3483 	EXP 	window1: recordFrameIntervals = False
+21.4432 	EXP 	Created text_21 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1, -1, -1]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text_21', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1.3)
+21.4728 	EXP 	Created text_23 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1, -1, -1]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text_23', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1.3)
+21.4922 	EXP 	Created text_26 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1, -1, -1]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text_26', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1.3)
+21.9174 	EXP 	Sound volume_set set volume 1.000
+21.9255 	EXP 	Created text_27 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1, -1, -1]), colorSpace='rgb', contrast=1.0, depth=-2.0, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text_27', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1.3)
+21.9368 	EXP 	Created text_24 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1, -1, -1]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text_24', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1.3)
+21.9525 	EXP 	Created text_37 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1, -1, -1]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text_37', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1.3)
+21.9698 	EXP 	Created text_22 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1, -1, -1]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text_22', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1.3)
+21.9963 	EXP 	Created text_25 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1, -1, -1]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text_25', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1.3)
+22.0125 	EXP 	Created text_28 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1, -1, -1]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text_28', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1.3)
+22.0256 	EXP 	Created text_29 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1, -1, -1]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text_29', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1.3)
+22.0547 	EXP 	Created text_36 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1, -1, -1]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text_36', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+22.0548 	EXP 	Sound learning set volume 1.000
+22.0590 	EXP 	Created text_19 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1, -1, -1]), colorSpace='rgb', contrast=1.0, depth=-1.0, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text_19', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='*', units='height', win=Window(...), wrapWidth=1)
+22.0845 	EXP 	Created text_31 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1, -1, -1]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text_31', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+22.0859 	EXP 	Created text_2 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1, -1, -1]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text_2', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+22.0860 	EXP 	Sound seqs set volume 1.000
+22.0871 	EXP 	Created text_13 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1, 1, 1]), colorSpace='rgb', contrast=1.0, depth=-1.0, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text_13', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+22.1190 	EXP 	Created text_12 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1, -1, -1]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text_12', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1.3)
+22.1482 	EXP 	Created text_14 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1, -1, -1]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text_14', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1.3)
+22.1483 	EXP 	Sound test_sounds set volume 1.000
+22.1514 	EXP 	Created text_17 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1, -1, -1]), colorSpace='rgb', contrast=1.0, depth=-1.0, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text_17', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='*', units='height', win=Window(...), wrapWidth=1)
+22.1665 	EXP 	Created text_18 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1, -1, -1]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text_18', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+22.1743 	EXP 	Created text_32 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1, -1, -1]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text_32', opacity=1.0, ori=0.0, pos=array([0. , 0.1]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+22.2150 	EXP 	Created image_2 = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1, 1, 1]), colorSpace='rgb', contrast=1.0, depth=-1.0, flipHoriz=False, flipVert=False, image='question2.png', interpolate=True, mask=None, maskParams=None, name='image_2', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([0.8 , 0.15]), texRes=128.0, units='height', win=Window(...))
+22.2215 	EXP 	Created text_33 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1, -1, -1]), colorSpace='rgb', contrast=1.0, depth=-2.0, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text_33', opacity=1.0, ori=0.0, pos=array([ 0.  , -0.15]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+22.2324 	EXP 	Created text_30 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1, -1, -1]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text_30', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1.3)
+22.2577 	EXP 	Created text_40 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1, -1, -1]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text_40', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1.3)
+22.2966 	EXP 	Created text_38 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1, -1, -1]), colorSpace='rgb', contrast=1.0, depth=-1.0, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text_38', opacity=1.0, ori=0.0, pos=array([0. , 0.3]), rgb=UNKNOWN, text='Dejas aquí tu comentario:\n', units='height', win=Window(...), wrapWidth=1)
+22.3043 	EXP 	Created text_39 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1, -1, -1]), colorSpace='rgb', contrast=1.0, depth=-2.0, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text_39', opacity=1.0, ori=0.0, pos=array([ 0. , -0.3]), rgb=UNKNOWN, text='Pulsa aquí para terminar el experimento.', units='height', win=Window(...), wrapWidth=1)
+22.3047 	EXP 	window1: mouseVisible = True
+22.3182 	EXP 	textbox: autoLog = True
+22.3182 	EXP 	text_21: autoDraw = True
+23.9829 	DATA 	Keypress: space
+24.0167 	EXP 	text_21: autoDraw = False
+24.0167 	EXP 	text_23: autoDraw = True
+25.2446 	DATA 	Keypress: space
+25.2590 	EXP 	text_23: autoDraw = False
+25.2590 	EXP 	text_26: autoDraw = True
+30.0813 	DATA 	Keypress: space
+30.0844 	EXP 	text_26: autoDraw = False
+30.0844 	EXP 	text_27: autoDraw = True
+30.9485 	DATA 	Keypress: space
+30.9632 	EXP 	text_27: autoDraw = False
+30.9632 	EXP 	text_24: autoDraw = True
+31.5488 	DATA 	Keypress: space
+31.5809 	EXP 	text_24: autoDraw = False
+31.5809 	EXP 	text_37: autoDraw = True
+38.0229 	DATA 	Keypress: space
+38.0380 	EXP 	text_37: autoDraw = False
+38.0380 	EXP 	text_22: autoDraw = True
+47.4832 	DATA 	Keypress: space
+47.4984 	EXP 	text_22: autoDraw = False
+47.4984 	EXP 	text_25: autoDraw = True
+58.1449 	DATA 	Keypress: space
+58.1581 	EXP 	text_25: autoDraw = False
+58.1581 	EXP 	text_28: autoDraw = True
+73.3426 	DATA 	Keypress: space
+73.3552 	EXP 	text_28: autoDraw = False
+73.3552 	EXP 	text_29: autoDraw = True
+75.0201 	EXP 	Imported condsA.csv as conditions, 4 conditions, 4 params
+75.0224 	EXP 	Created sequence: random, trialTypes=4, nReps=1, seed=None
+75.0229 	EXP 	New trial (rep=0, index=0): OrderedDict([('seq', 'ConjL4_syn.csv'), ('online_dir', 'directory_online_conj_L4_syn.csv'), ('test_dir', 'Test_Conj_SyncL4.csv'), ('audio_offline', 'ConjL4_sync_norm.wav')])
+75.0247 	DATA 	Keypress: space
+75.0290 	EXP 	text_29: autoDraw = False
+75.0290 	EXP 	text_36: autoDraw = True
+86.4040 	DATA 	Keypress: space
+86.4147 	EXP 	text_36: autoDraw = False
+86.4147 	EXP 	text_19: autoDraw = True
+89.3809 	DATA 	Keypress: space
+89.3887 	EXP 	text_19: autoDraw = False
+89.3887 	EXP 	text_31: autoDraw = True
+96.9598 	EXP 	Imported ConjL4_syn.csv as conditions, 32 conditions, 3 params
+96.9699 	EXP 	Created sequence: random, trialTypes=32, nReps=1, seed=None
+96.9707 	EXP 	New trial (rep=0, index=0): OrderedDict([('cond', 'pe'), ('ord', '112:116'), ('colour', 'red')])
+97.0046 	EXP 	Imported directory_online_conj_L4_syn.csv as conditions, 4 conditions, 2 params
+97.0049 	EXP 	Created sequence: random, trialTypes=4, nReps=1, seed=None
+97.0052 	EXP 	New trial (rep=0, index=0): OrderedDict([('dirs', 'Online_conjL4_syn//dPE19.0.wav'), ('time', 0.0)])
+97.0685 	DATA 	Keypress: space
+97.0720 	EXP 	text_31: autoDraw = False
+97.0720 	EXP 	text_2: height = 0.05
+97.0720 	EXP 	text_2: height = 0.05
+97.0720 	EXP 	text_2: height = 0.05
+97.0720 	EXP 	text_2: text = 'pe'
+97.0720 	EXP 	text_2: autoDraw = True
+97.0720 	EXP 	text_2: autoDraw = False
+97.0720 	EXP 	text_2: autoDraw = False
+97.0720 	EXP 	text_13: autoDraw = True
+97.0720 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+97.0767 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+97.0811 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+97.0953 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+97.1121 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+97.1287 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+97.1453 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+97.1620 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+97.1789 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+97.1955 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+97.2121 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+97.2289 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+97.2455 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+97.2623 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+97.2790 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+97.2956 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+97.3123 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+97.3291 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+97.3456 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+97.3624 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+97.3789 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+97.3957 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+97.4123 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+97.4292 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+97.4456 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+97.4624 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+97.4790 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+97.4957 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+97.5125 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+97.5293 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+97.5457 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+97.5626 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+97.5791 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+97.5959 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+97.6125 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+97.6293 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+97.6459 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+97.6626 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+97.6795 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+97.6959 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+97.7127 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+97.7294 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+97.7460 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+97.7627 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+97.7793 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+97.7960 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+97.8128 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+97.8294 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+97.8460 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+97.8627 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+97.8796 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+97.8961 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+97.9127 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+97.9294 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+97.9462 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+97.9628 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+97.9797 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+97.9962 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+98.0129 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+98.0297 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+98.0464 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+98.0629 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+98.0796 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+98.0962 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+98.1131 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+98.1296 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+98.1463 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+98.1631 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+98.1799 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+98.1964 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+98.2131 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+98.2296 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+98.2463 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+98.2630 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+98.2797 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+98.2964 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+98.3133 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+98.3301 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+98.3465 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+98.3633 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+98.3801 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+98.3966 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+98.4134 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+98.4301 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+98.4466 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+98.4633 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+98.4802 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+98.4967 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+98.5135 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+98.5302 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+98.5468 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+98.5634 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+98.5802 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+98.5969 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+98.6135 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+98.6303 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+98.6469 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+98.6635 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+98.6804 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+98.6969 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+98.7136 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+98.7303 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+98.7469 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+98.7636 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+98.7804 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+98.7970 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+98.8138 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+98.8303 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+98.8470 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+98.8637 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+98.8805 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+98.8971 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+98.9138 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+98.9306 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+98.9472 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+98.9638 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+98.9805 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+98.9973 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+99.0139 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+99.0304 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+99.0473 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+99.0639 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+99.0807 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+99.0973 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+99.0994 	EXP 	New trial (rep=0, index=1): OrderedDict([('dirs', 'Online_conjL4_syn//dPE16.none.wav'), ('time', 'none')])
+99.1215 	DATA 	Keypress: y
+99.1547 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+99.1547 	EXP 	text_13: autoDraw = False
+99.1547 	EXP 	text_13: autoDraw = True
+99.1547 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+99.1597 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+99.1647 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+99.1806 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+99.1974 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+99.2140 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+99.2309 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+99.2475 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+99.2643 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+99.2808 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+99.2825 	EXP 	New trial (rep=0, index=2): OrderedDict([('dirs', 'Online_conjL4_syn//dPE18.none.wav'), ('time', 'none')])
+99.2923 	DATA 	Keypress: y
+99.2975 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+99.2975 	EXP 	text_13: autoDraw = False
+99.2975 	EXP 	text_13: autoDraw = True
+99.2975 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+99.3144 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+99.3309 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+99.3475 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+99.3642 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+99.3809 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+99.3975 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+99.4143 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+99.4310 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+99.4478 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+99.4495 	EXP 	New trial (rep=0, index=3): OrderedDict([('dirs', 'Online_conjL4_syn//dPE17.none.wav'), ('time', 'none')])
+99.4575 	DATA 	Keypress: y
+99.4644 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+99.4644 	EXP 	text_13: autoDraw = False
+99.4644 	EXP 	text_13: autoDraw = True
+99.4644 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+99.4811 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+99.4977 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+99.5144 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+99.5310 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+99.5478 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+99.5644 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+99.5813 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+99.5978 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+99.6001 	EXP 	New trial (rep=0, index=1): OrderedDict([('cond', 'bu'), ('ord', '76:80'), ('colour', 'orange')])
+99.6136 	EXP 	Imported directory_online_conj_L4_syn.csv as conditions, 4 conditions, 2 params
+99.6139 	EXP 	Created sequence: random, trialTypes=4, nReps=1, seed=None
+99.6142 	EXP 	New trial (rep=0, index=0): OrderedDict([('dirs', 'Online_conjL4_syn//cBU13.0.wav'), ('time', 0.0)])
+99.6324 	DATA 	Keypress: y
+99.6355 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+99.6355 	EXP 	text_13: autoDraw = False
+99.6355 	EXP 	text_2: height = 0.05
+99.6355 	EXP 	text_2: height = 0.05
+99.6355 	EXP 	text_2: height = 0.05
+99.6355 	EXP 	text_2: text = 'bu'
+99.6355 	EXP 	text_2: autoDraw = True
+99.6355 	EXP 	text_2: autoDraw = False
+99.6355 	EXP 	text_2: autoDraw = False
+99.6355 	EXP 	text_13: autoDraw = True
+99.6355 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+99.6405 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+99.6480 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+99.6644 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+99.6812 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+99.6980 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+99.7146 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+99.7312 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+99.7480 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+99.7646 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+99.7814 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+99.7833 	EXP 	New trial (rep=0, index=1): OrderedDict([('dirs', 'Online_conjL4_syn//cBU15.222.wav'), ('time', 222.0)])
+99.8060 	DATA 	Keypress: y
+99.8091 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+99.8091 	EXP 	text_13: autoDraw = False
+99.8091 	EXP 	text_13: autoDraw = True
+99.8091 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+99.8148 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+99.8315 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+99.8482 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+99.8648 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+99.8816 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+99.8982 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+99.9148 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+99.9168 	DATA 	Keypress: y
+99.9314 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+99.9331 	EXP 	New trial (rep=0, index=2): OrderedDict([('dirs', 'Online_conjL4_syn//cBU14.none.wav'), ('time', 'none')])
+99.9482 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+99.9482 	EXP 	text_13: autoDraw = False
+99.9482 	EXP 	text_13: autoDraw = True
+99.9482 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+99.9649 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+99.9815 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+99.9983 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+100.0151 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+100.0315 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+100.0484 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+100.0649 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+100.0667 	EXP 	New trial (rep=0, index=3): OrderedDict([('dirs', 'Online_conjL4_syn//cBU12.222.wav'), ('time', 222.0)])
+100.0778 	DATA 	Keypress: y
+100.0816 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+100.0816 	EXP 	text_13: autoDraw = False
+100.0816 	EXP 	text_13: autoDraw = True
+100.0816 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+100.0984 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+100.1151 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+100.1317 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+100.1484 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+100.1651 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+100.1818 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+100.1983 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+100.2150 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+100.2319 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+100.2336 	EXP 	New trial (rep=0, index=2): OrderedDict([('cond', 'pe'), ('ord', '100:104'), ('colour', 'red')])
+100.2433 	EXP 	Imported directory_online_conj_L4_syn.csv as conditions, 4 conditions, 2 params
+100.2437 	EXP 	Created sequence: random, trialTypes=4, nReps=1, seed=None
+100.2439 	EXP 	New trial (rep=0, index=0): OrderedDict([('dirs', 'Online_conjL4_syn//dPE4.none.wav'), ('time', 'none')])
+100.2680 	DATA 	Keypress: y
+100.2714 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+100.2714 	EXP 	text_13: autoDraw = False
+100.2714 	EXP 	text_2: height = 0.05
+100.2714 	EXP 	text_2: height = 0.05
+100.2714 	EXP 	text_2: height = 0.05
+100.2714 	EXP 	text_2: text = 'pe'
+100.2714 	EXP 	text_2: autoDraw = True
+100.2714 	EXP 	text_2: autoDraw = False
+100.2714 	EXP 	text_2: autoDraw = False
+100.2714 	EXP 	text_13: autoDraw = True
+100.2714 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+100.2762 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+100.2818 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+100.2986 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+100.3153 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+100.3320 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+100.3486 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+100.3652 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+100.3672 	EXP 	New trial (rep=0, index=1): OrderedDict([('dirs', 'Online_conjL4_syn//dPE5.none.wav'), ('time', 'none')])
+100.3773 	DATA 	Keypress: y
+100.3821 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+100.3821 	EXP 	text_13: autoDraw = False
+100.3821 	EXP 	text_13: autoDraw = True
+100.3821 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+100.3986 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+100.4153 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+100.4321 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+100.4488 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+100.4654 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+100.4820 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+100.4988 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+100.5155 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+100.5320 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+100.5341 	EXP 	New trial (rep=0, index=2): OrderedDict([('dirs', 'Online_conjL4_syn//dPE7.222.wav'), ('time', 222.0)])
+100.5425 	DATA 	Keypress: y
+100.5488 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+100.5488 	EXP 	text_13: autoDraw = False
+100.5488 	EXP 	text_13: autoDraw = True
+100.5488 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+100.5654 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+100.5821 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+100.5988 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+100.6155 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+100.6322 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+100.6489 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+100.6657 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+100.6822 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+100.6845 	DATA 	Keypress: y
+100.6989 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+100.7011 	EXP 	New trial (rep=0, index=3): OrderedDict([('dirs', 'Online_conjL4_syn//dPE6.none.wav'), ('time', 'none')])
+100.7157 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+100.7157 	EXP 	text_13: autoDraw = False
+100.7157 	EXP 	text_13: autoDraw = True
+100.7157 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+100.7323 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+100.7489 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+100.7656 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+100.7824 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+100.7990 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+100.8157 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+100.8325 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+100.8490 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+100.8510 	EXP 	New trial (rep=0, index=3): OrderedDict([('cond', 'lo'), ('ord', '24:28'), ('colour', 'blue')])
+100.8629 	EXP 	Imported directory_online_conj_L4_syn.csv as conditions, 4 conditions, 2 params
+100.8633 	EXP 	Created sequence: random, trialTypes=4, nReps=1, seed=None
+100.8636 	EXP 	New trial (rep=0, index=0): OrderedDict([('dirs', 'Online_conjL4_syn//aLO27.1554.wav'), ('time', 1554.0)])
+100.8778 	DATA 	Keypress: y
+100.8811 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+100.8811 	EXP 	text_13: autoDraw = False
+100.8811 	EXP 	text_2: height = 0.05
+100.8811 	EXP 	text_2: height = 0.05
+100.8811 	EXP 	text_2: height = 0.05
+100.8811 	EXP 	text_2: text = 'lo'
+100.8811 	EXP 	text_2: autoDraw = True
+100.8811 	EXP 	text_2: autoDraw = False
+100.8811 	EXP 	text_2: autoDraw = False
+100.8811 	EXP 	text_13: autoDraw = True
+100.8811 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+100.8860 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+100.8992 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+100.9159 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+100.9324 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+100.9493 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+100.9658 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+100.9826 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+100.9993 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+101.0158 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+101.0184 	EXP 	New trial (rep=0, index=1): OrderedDict([('dirs', 'Online_conjL4_syn//aLO25.666.wav'), ('time', 666.0)])
+101.0294 	DATA 	Keypress: y
+101.0325 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+101.0325 	EXP 	text_13: autoDraw = False
+101.0325 	EXP 	text_13: autoDraw = True
+101.0325 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+101.0494 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+101.0660 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+101.0827 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+101.0995 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+101.1161 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+101.1328 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+101.1494 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+101.1513 	EXP 	New trial (rep=0, index=2): OrderedDict([('dirs', 'Online_conjL4_syn//aLO26.none.wav'), ('time', 'none')])
+101.1687 	DATA 	Keypress: y
+101.1721 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+101.1721 	EXP 	text_13: autoDraw = False
+101.1721 	EXP 	text_13: autoDraw = True
+101.1721 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+101.1827 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+101.1996 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+101.2161 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+101.2328 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+101.2494 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+101.2660 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+101.2830 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+101.2997 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+101.3163 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+101.3329 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+101.3346 	EXP 	New trial (rep=0, index=3): OrderedDict([('dirs', 'Online_conjL4_syn//aLO24.none.wav'), ('time', 'none')])
+101.3451 	DATA 	Keypress: y
+101.3498 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+101.3498 	EXP 	text_13: autoDraw = False
+101.3498 	EXP 	text_13: autoDraw = True
+101.3498 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+101.3662 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+101.3829 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+101.3997 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+101.4164 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+101.4330 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+101.4498 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+101.4664 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+101.4830 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+101.4999 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+101.5016 	EXP 	New trial (rep=0, index=4): OrderedDict([('cond', 'lo'), ('ord', '4:8'), ('colour', 'blue')])
+101.5101 	EXP 	Imported directory_online_conj_L4_syn.csv as conditions, 4 conditions, 2 params
+101.5104 	EXP 	Created sequence: random, trialTypes=4, nReps=1, seed=None
+101.5107 	EXP 	New trial (rep=0, index=0): OrderedDict([('dirs', 'Online_conjL4_syn//aLO7.1554.wav'), ('time', 1554.0)])
+101.5308 	DATA 	Keypress: y
+101.5342 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+101.5342 	EXP 	text_13: autoDraw = False
+101.5342 	EXP 	text_2: text = 'lo'
+101.5342 	EXP 	text_2: autoDraw = True
+101.5342 	EXP 	text_2: autoDraw = False
+101.5342 	EXP 	text_2: autoDraw = False
+101.5342 	EXP 	text_13: autoDraw = True
+101.5342 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+101.5392 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+101.5498 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+101.5665 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+101.5831 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+101.6000 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+101.6166 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+101.6331 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+101.6500 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+101.6665 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+101.6686 	EXP 	New trial (rep=0, index=1): OrderedDict([('dirs', 'Online_conjL4_syn//aLO4.666.wav'), ('time', 666.0)])
+101.6830 	DATA 	Keypress: y
+101.6861 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+101.6861 	EXP 	text_13: autoDraw = False
+101.6861 	EXP 	text_13: autoDraw = True
+101.6861 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+101.7001 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+101.7165 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+101.7333 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+101.7501 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+101.7668 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+101.7833 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+101.8002 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+101.8168 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+101.8334 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+101.8352 	EXP 	New trial (rep=0, index=2): OrderedDict([('dirs', 'Online_conjL4_syn//aLO6.1554.wav'), ('time', 1554.0)])
+101.8424 	DATA 	Keypress: y
+101.8501 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+101.8501 	EXP 	text_13: autoDraw = False
+101.8501 	EXP 	text_13: autoDraw = True
+101.8501 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+101.8668 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+101.8836 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+101.9001 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+101.9169 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+101.9335 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+101.9503 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+101.9669 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+101.9835 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+102.0002 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+102.0027 	EXP 	New trial (rep=0, index=3): OrderedDict([('dirs', 'Online_conjL4_syn//aLO5.none.wav'), ('time', 'none')])
+102.0098 	DATA 	Keypress: y
+102.0170 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+102.0170 	EXP 	text_13: autoDraw = False
+102.0170 	EXP 	text_13: autoDraw = True
+102.0170 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+102.0337 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+102.0504 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+102.0670 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+102.0836 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+102.1005 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+102.1170 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+102.1338 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+102.1503 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+102.1671 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+102.1689 	EXP 	New trial (rep=0, index=5): OrderedDict([('cond', 'pe'), ('ord', '108:112'), ('colour', 'red')])
+102.1790 	EXP 	Imported directory_online_conj_L4_syn.csv as conditions, 4 conditions, 2 params
+102.1793 	EXP 	Created sequence: random, trialTypes=4, nReps=1, seed=None
+102.1795 	EXP 	New trial (rep=0, index=0): OrderedDict([('dirs', 'Online_conjL4_syn//dPE15.none.wav'), ('time', 'none')])
+102.1930 	DATA 	Keypress: y
+102.1962 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+102.1962 	EXP 	text_13: autoDraw = False
+102.1962 	EXP 	text_2: height = 0.05
+102.1962 	EXP 	text_2: height = 0.05
+102.1962 	EXP 	text_2: height = 0.05
+102.1962 	EXP 	text_2: text = 'pe'
+102.1962 	EXP 	text_2: autoDraw = True
+102.1962 	EXP 	text_2: autoDraw = False
+102.1962 	EXP 	text_2: autoDraw = False
+102.1962 	EXP 	text_13: autoDraw = True
+102.1962 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+102.2012 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+102.2171 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+102.2339 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+102.2505 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+102.2672 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+102.2839 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+102.3005 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+102.3173 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+102.3341 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+102.3506 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+102.3529 	EXP 	New trial (rep=0, index=1): OrderedDict([('dirs', 'Online_conjL4_syn//dPE13.none.wav'), ('time', 'none')])
+102.3779 	DATA 	Keypress: y
+102.3814 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+102.3814 	EXP 	text_13: autoDraw = False
+102.3814 	EXP 	text_13: autoDraw = True
+102.3814 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+102.3870 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+102.4005 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+102.4174 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+102.4341 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+102.4507 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+102.4674 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+102.4842 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+102.5007 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+102.5175 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+102.5342 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+102.5365 	EXP 	New trial (rep=0, index=2): OrderedDict([('dirs', 'Online_conjL4_syn//dPE12.none.wav'), ('time', 'none')])
+102.5441 	DATA 	Keypress: y
+102.5507 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+102.5507 	EXP 	text_13: autoDraw = False
+102.5507 	EXP 	text_13: autoDraw = True
+102.5507 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+102.5676 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+102.5842 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+102.6008 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+102.6174 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+102.6343 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+102.6509 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+102.6675 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+102.6844 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+102.7009 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+102.7027 	EXP 	New trial (rep=0, index=3): OrderedDict([('dirs', 'Online_conjL4_syn//dPE14.222.wav'), ('time', 222.0)])
+102.7116 	DATA 	Keypress: y
+102.7177 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+102.7177 	EXP 	text_13: autoDraw = False
+102.7177 	EXP 	text_13: autoDraw = True
+102.7177 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+102.7344 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+102.7510 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+102.7675 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+102.7845 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+102.8010 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+102.8178 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+102.8344 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+102.8510 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+102.8677 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+102.8846 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+102.8864 	EXP 	New trial (rep=0, index=6): OrderedDict([('cond', 'lo'), ('ord', '16:20'), ('colour', 'blue')])
+102.8965 	EXP 	Imported directory_online_conj_L4_syn.csv as conditions, 4 conditions, 2 params
+102.8968 	EXP 	Created sequence: random, trialTypes=4, nReps=1, seed=None
+102.8970 	EXP 	New trial (rep=0, index=0): OrderedDict([('dirs', 'Online_conjL4_syn//aLO16.1554.wav'), ('time', 1554.0)])
+102.9234 	DATA 	Keypress: y
+102.9271 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+102.9271 	EXP 	text_13: autoDraw = False
+102.9271 	EXP 	text_2: height = 0.05
+102.9271 	EXP 	text_2: height = 0.05
+102.9271 	EXP 	text_2: height = 0.05
+102.9271 	EXP 	text_2: text = 'lo'
+102.9271 	EXP 	text_2: autoDraw = True
+102.9271 	EXP 	text_2: autoDraw = False
+102.9271 	EXP 	text_2: autoDraw = False
+102.9271 	EXP 	text_13: autoDraw = True
+102.9271 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+102.9323 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+102.9367 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+102.9511 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+102.9678 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+102.9845 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+103.0012 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+103.0180 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+103.0347 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+103.0514 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+103.0533 	DATA 	Keypress: y
+103.0681 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+103.0701 	EXP 	New trial (rep=0, index=1): OrderedDict([('dirs', 'Online_conjL4_syn//aLO19.none.wav'), ('time', 'none')])
+103.0900 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+103.0900 	EXP 	text_13: autoDraw = False
+103.0900 	EXP 	text_13: autoDraw = True
+103.0900 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+103.1015 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+103.1181 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+103.1348 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+103.1513 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+103.1681 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+103.1847 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+103.2013 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+103.2182 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+103.2349 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+103.2367 	EXP 	New trial (rep=0, index=2): OrderedDict([('dirs', 'Online_conjL4_syn//aLO17.666.wav'), ('time', 666.0)])
+103.2447 	DATA 	Keypress: y
+103.2516 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+103.2516 	EXP 	text_13: autoDraw = False
+103.2516 	EXP 	text_13: autoDraw = True
+103.2516 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+103.2683 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+103.2849 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+103.3014 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+103.3183 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+103.3348 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+103.3514 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+103.3681 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+103.3850 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+103.4017 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+103.4183 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+103.4200 	EXP 	New trial (rep=0, index=3): OrderedDict([('dirs', 'Online_conjL4_syn//aLO18.none.wav'), ('time', 'none')])
+103.4271 	DATA 	Keypress: y
+103.4350 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+103.4350 	EXP 	text_13: autoDraw = False
+103.4350 	EXP 	text_13: autoDraw = True
+103.4350 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+103.4516 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+103.4685 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+103.4850 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+103.5016 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+103.5184 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+103.5352 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+103.5519 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+103.5683 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+103.5852 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+103.6020 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+103.6038 	EXP 	New trial (rep=0, index=7): OrderedDict([('cond', 'bu'), ('ord', '68:72'), ('colour', 'orange')])
+103.6164 	EXP 	Imported directory_online_conj_L4_syn.csv as conditions, 4 conditions, 2 params
+103.6168 	EXP 	Created sequence: random, trialTypes=4, nReps=1, seed=None
+103.6171 	EXP 	New trial (rep=0, index=0): OrderedDict([('dirs', 'Online_conjL4_syn//cBU7.none.wav'), ('time', 'none')])
+103.6399 	DATA 	Keypress: y
+103.6432 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+103.6432 	EXP 	text_13: autoDraw = False
+103.6432 	EXP 	text_2: height = 0.05
+103.6432 	EXP 	text_2: height = 0.05
+103.6432 	EXP 	text_2: height = 0.05
+103.6432 	EXP 	text_2: text = 'bu'
+103.6432 	EXP 	text_2: autoDraw = True
+103.6432 	EXP 	text_2: autoDraw = False
+103.6432 	EXP 	text_2: autoDraw = False
+103.6432 	EXP 	text_13: autoDraw = True
+103.6432 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+103.6482 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+103.6528 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+103.6685 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+103.6853 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+103.7020 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+103.7185 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+103.7354 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+103.7521 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+103.7687 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+103.7854 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+103.8135 	EXP 	New trial (rep=0, index=1): OrderedDict([('dirs', 'Online_conjL4_syn//cBU4.none.wav'), ('time', 'none')])
+103.8250 	DATA 	Keypress: y
+103.8289 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+103.8289 	EXP 	text_13: autoDraw = False
+103.8289 	EXP 	text_13: autoDraw = True
+103.8289 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+103.8342 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+103.8389 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+103.8521 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+103.8688 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+103.8855 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+103.9022 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+103.9188 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+103.9355 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+103.9522 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+103.9542 	EXP 	New trial (rep=0, index=2): OrderedDict([('dirs', 'Online_conjL4_syn//cBU6.none.wav'), ('time', 'none')])
+103.9625 	DATA 	Keypress: y
+103.9689 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+103.9689 	EXP 	text_13: autoDraw = False
+103.9689 	EXP 	text_13: autoDraw = True
+103.9689 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+103.9856 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+104.0023 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+104.0189 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+104.0356 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+104.0522 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+104.0689 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+104.0856 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+104.1024 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+104.1191 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+104.1359 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+104.1525 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+104.1545 	EXP 	New trial (rep=0, index=3): OrderedDict([('dirs', 'Online_conjL4_syn//cBU5.none.wav'), ('time', 'none')])
+104.1641 	DATA 	Keypress: y
+104.1690 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+104.1690 	EXP 	text_13: autoDraw = False
+104.1690 	EXP 	text_13: autoDraw = True
+104.1690 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+104.1856 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+104.2024 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+104.2193 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+104.2358 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+104.2525 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+104.2694 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+104.2858 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+104.3025 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+104.3193 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+104.3212 	EXP 	New trial (rep=0, index=8): OrderedDict([('cond', 'pe'), ('ord', '120:124'), ('colour', 'red')])
+104.3320 	EXP 	Imported directory_online_conj_L4_syn.csv as conditions, 4 conditions, 2 params
+104.3323 	EXP 	Created sequence: random, trialTypes=4, nReps=1, seed=None
+104.3325 	EXP 	New trial (rep=0, index=0): OrderedDict([('dirs', 'Online_conjL4_syn//dPE24.none.wav'), ('time', 'none')])
+104.3519 	DATA 	Keypress: y
+104.3552 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+104.3552 	EXP 	text_13: autoDraw = False
+104.3552 	EXP 	text_2: height = 0.05
+104.3552 	EXP 	text_2: height = 0.05
+104.3552 	EXP 	text_2: height = 0.05
+104.3552 	EXP 	text_2: text = 'pe'
+104.3552 	EXP 	text_2: autoDraw = True
+104.3552 	EXP 	text_2: autoDraw = False
+104.3552 	EXP 	text_2: autoDraw = False
+104.3552 	EXP 	text_13: autoDraw = True
+104.3552 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+104.3603 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+104.3693 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+104.3858 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+104.4025 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+104.4194 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+104.4360 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+104.4526 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+104.4695 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+104.4861 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+104.5026 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+104.5045 	EXP 	New trial (rep=0, index=1): OrderedDict([('dirs', 'Online_conjL4_syn//dPE25.222.wav'), ('time', 222.0)])
+104.5119 	DATA 	Keypress: y
+104.5196 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+104.5196 	EXP 	text_13: autoDraw = False
+104.5196 	EXP 	text_13: autoDraw = True
+104.5196 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+104.5361 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+104.5528 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+104.5697 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+104.5861 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+104.6029 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+104.6196 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+104.6362 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+104.6528 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+104.6697 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+104.6714 	EXP 	New trial (rep=0, index=2): OrderedDict([('dirs', 'Online_conjL4_syn//dPE26.none.wav'), ('time', 'none')])
+104.6900 	DATA 	Keypress: y
+104.6937 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+104.6937 	EXP 	text_13: autoDraw = False
+104.6937 	EXP 	text_13: autoDraw = True
+104.6937 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+104.7029 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+104.7197 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+104.7362 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+104.7529 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+104.7698 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+104.7863 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+104.8030 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+104.8198 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+104.8365 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+104.8530 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+104.8548 	EXP 	New trial (rep=0, index=3): OrderedDict([('dirs', 'Online_conjL4_syn//dPE27.1332.wav'), ('time', 1332.0)])
+104.8744 	DATA 	Keypress: y
+104.8777 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+104.8777 	EXP 	text_13: autoDraw = False
+104.8777 	EXP 	text_13: autoDraw = True
+104.8777 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+104.8866 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+104.9030 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+104.9198 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+104.9366 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+104.9531 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+104.9700 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+104.9867 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+105.0032 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+105.0200 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+105.0222 	EXP 	New trial (rep=0, index=9): OrderedDict([('cond', 'pe'), ('ord', '104:108'), ('colour', 'red')])
+105.0314 	EXP 	Imported directory_online_conj_L4_syn.csv as conditions, 4 conditions, 2 params
+105.0318 	EXP 	Created sequence: random, trialTypes=4, nReps=1, seed=None
+105.0320 	EXP 	New trial (rep=0, index=0): OrderedDict([('dirs', 'Online_conjL4_syn//dPE11.1110.wav'), ('time', 1110.0)])
+105.0497 	DATA 	Keypress: y
+105.0533 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+105.0533 	EXP 	text_13: autoDraw = False
+105.0533 	EXP 	text_2: text = 'pe'
+105.0533 	EXP 	text_2: autoDraw = True
+105.0533 	EXP 	text_2: autoDraw = False
+105.0533 	EXP 	text_2: autoDraw = False
+105.0533 	EXP 	text_13: autoDraw = True
+105.0533 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+105.0579 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+105.0701 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+105.0866 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+105.1033 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+105.1201 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+105.1370 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+105.1535 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+105.1702 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+105.1868 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+105.2033 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+105.2052 	EXP 	New trial (rep=0, index=1): OrderedDict([('dirs', 'Online_conjL4_syn//dPE9.444.wav'), ('time', 444.0)])
+105.2172 	DATA 	Keypress: y
+105.2211 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+105.2211 	EXP 	text_13: autoDraw = False
+105.2211 	EXP 	text_13: autoDraw = True
+105.2211 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+105.2367 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+105.2534 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+105.2703 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+105.2869 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+105.3036 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+105.3203 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+105.3369 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+105.3537 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+105.3702 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+105.3722 	DATA 	Keypress: y
+105.3868 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+105.3887 	EXP 	New trial (rep=0, index=2): OrderedDict([('dirs', 'Online_conjL4_syn//dPE8.1332.wav'), ('time', 1332.0)])
+105.4142 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+105.4142 	EXP 	text_13: autoDraw = False
+105.4142 	EXP 	text_13: autoDraw = True
+105.4142 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+105.4204 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+105.4369 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+105.4536 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+105.4703 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+105.4871 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+105.5037 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+105.5205 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+105.5371 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+105.5539 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+105.5556 	EXP 	New trial (rep=0, index=3): OrderedDict([('dirs', 'Online_conjL4_syn//dPE10.1110.wav'), ('time', 1110.0)])
+105.5718 	DATA 	Keypress: y
+105.5757 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+105.5757 	EXP 	text_13: autoDraw = False
+105.5757 	EXP 	text_13: autoDraw = True
+105.5757 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+105.5872 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+105.6039 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+105.6206 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+105.6373 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+105.6539 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+105.6706 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+105.6873 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+105.7039 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+105.7205 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+105.7372 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+105.7390 	EXP 	New trial (rep=0, index=10): OrderedDict([('cond', 'bu'), ('ord', '64:68'), ('colour', 'orange')])
+105.7513 	EXP 	Imported directory_online_conj_L4_syn.csv as conditions, 4 conditions, 2 params
+105.7517 	EXP 	Created sequence: random, trialTypes=4, nReps=1, seed=None
+105.7520 	EXP 	New trial (rep=0, index=0): OrderedDict([('dirs', 'Online_conjL4_syn//cBU3.444.wav'), ('time', 444.0)])
+105.7719 	DATA 	Keypress: y
+105.7754 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+105.7754 	EXP 	text_13: autoDraw = False
+105.7754 	EXP 	text_2: height = 0.05
+105.7754 	EXP 	text_2: height = 0.05
+105.7754 	EXP 	text_2: height = 0.05
+105.7754 	EXP 	text_2: text = 'bu'
+105.7754 	EXP 	text_2: autoDraw = True
+105.7754 	EXP 	text_2: autoDraw = False
+105.7754 	EXP 	text_2: autoDraw = False
+105.7754 	EXP 	text_13: autoDraw = True
+105.7754 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+105.7803 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+105.7875 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+105.8041 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+105.8207 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+105.8375 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+105.8542 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+105.8707 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+105.8875 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+105.8895 	EXP 	New trial (rep=0, index=1): OrderedDict([('dirs', 'Online_conjL4_syn//cBU2.1332.wav'), ('time', 1332.0)])
+105.9050 	DATA 	Keypress: y
+105.9086 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+105.9086 	EXP 	text_13: autoDraw = False
+105.9086 	EXP 	text_13: autoDraw = True
+105.9086 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+105.9208 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+105.9375 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+105.9542 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+105.9709 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+105.9876 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+106.0043 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+106.0208 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+106.0377 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+106.0543 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+106.0709 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+106.0726 	EXP 	New trial (rep=0, index=2): OrderedDict([('dirs', 'Online_conjL4_syn//cBU0.444.wav'), ('time', 444.0)])
+106.0911 	DATA 	Keypress: y
+106.0946 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+106.0946 	EXP 	text_13: autoDraw = False
+106.0946 	EXP 	text_13: autoDraw = True
+106.0946 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+106.1044 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+106.1211 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+106.1377 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+106.1543 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+106.1711 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+106.1878 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+106.2044 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+106.2211 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+106.2376 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+106.2544 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+106.2711 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+106.2730 	EXP 	New trial (rep=0, index=3): OrderedDict([('dirs', 'Online_conjL4_syn//cBU1.444.wav'), ('time', 444.0)])
+106.2966 	DATA 	Keypress: y
+106.3002 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+106.3002 	EXP 	text_13: autoDraw = False
+106.3002 	EXP 	text_13: autoDraw = True
+106.3002 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+106.3053 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+106.3212 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+106.3380 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+106.3545 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+106.3713 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+106.3880 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+106.4046 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+106.4212 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+106.4381 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+106.4546 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+106.4565 	EXP 	New trial (rep=0, index=11): OrderedDict([('cond', 'ja'), ('ord', '32:36'), ('colour', 'green')])
+106.4666 	EXP 	Imported directory_online_conj_L4_syn.csv as conditions, 4 conditions, 2 params
+106.4670 	EXP 	Created sequence: random, trialTypes=4, nReps=1, seed=None
+106.4672 	EXP 	New trial (rep=0, index=0): OrderedDict([('dirs', 'Online_conjL4_syn//bJA1.666.wav'), ('time', 666.0)])
+106.4914 	DATA 	Keypress: y
+106.4955 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+106.4955 	EXP 	text_13: autoDraw = False
+106.4955 	EXP 	text_2: height = 0.05
+106.4955 	EXP 	text_2: height = 0.05
+106.4955 	EXP 	text_2: height = 0.05
+106.4955 	EXP 	text_2: text = 'ja'
+106.4955 	EXP 	text_2: autoDraw = True
+106.4955 	EXP 	text_2: autoDraw = False
+106.4955 	EXP 	text_2: autoDraw = False
+106.4955 	EXP 	text_13: autoDraw = True
+106.4955 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+106.5024 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+106.5069 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+106.5217 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+106.5381 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+106.5548 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+106.5714 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+106.5881 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+106.6050 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+106.6070 	EXP 	New trial (rep=0, index=1): OrderedDict([('dirs', 'Online_conjL4_syn//bJA0.0.wav'), ('time', 0.0)])
+106.6171 	DATA 	Keypress: y
+106.6214 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+106.6214 	EXP 	text_13: autoDraw = False
+106.6214 	EXP 	text_13: autoDraw = True
+106.6214 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+106.6382 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+106.6549 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+106.6715 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+106.6882 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+106.7051 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+106.7217 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+106.7384 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+106.7550 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+106.7716 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+106.7883 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+106.7902 	EXP 	New trial (rep=0, index=2): OrderedDict([('dirs', 'Online_conjL4_syn//bJA3.0.wav'), ('time', 0.0)])
+106.8160 	DATA 	Keypress: y
+106.8197 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+106.8197 	EXP 	text_13: autoDraw = False
+106.8197 	EXP 	text_13: autoDraw = True
+106.8197 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+106.8246 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+106.8383 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+106.8551 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+106.8718 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+106.8884 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+106.9052 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+106.9219 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+106.9385 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+106.9551 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+106.9720 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+106.9736 	EXP 	New trial (rep=0, index=3): OrderedDict([('dirs', 'Online_conjL4_syn//bJA2.666.wav'), ('time', 666.0)])
+106.9884 	DATA 	Keypress: y
+106.9920 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+106.9920 	EXP 	text_13: autoDraw = False
+106.9920 	EXP 	text_13: autoDraw = True
+106.9920 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+107.0052 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+107.0220 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+107.0387 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+107.0552 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+107.0723 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+107.0886 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+107.1053 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+107.1221 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+107.1386 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+107.1407 	EXP 	New trial (rep=0, index=12): OrderedDict([('cond', 'bu'), ('ord', '84:88'), ('colour', 'orange')])
+107.1515 	EXP 	Imported directory_online_conj_L4_syn.csv as conditions, 4 conditions, 2 params
+107.1518 	EXP 	Created sequence: random, trialTypes=4, nReps=1, seed=None
+107.1521 	EXP 	New trial (rep=0, index=0): OrderedDict([('dirs', 'Online_conjL4_syn//cBU23.none.wav'), ('time', 'none')])
+107.1761 	DATA 	Keypress: y
+107.1800 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+107.1800 	EXP 	text_13: autoDraw = False
+107.1800 	EXP 	text_2: height = 0.05
+107.1800 	EXP 	text_2: height = 0.05
+107.1800 	EXP 	text_2: height = 0.05
+107.1800 	EXP 	text_2: text = 'bu'
+107.1800 	EXP 	text_2: autoDraw = True
+107.1800 	EXP 	text_2: autoDraw = False
+107.1800 	EXP 	text_2: autoDraw = False
+107.1800 	EXP 	text_13: autoDraw = True
+107.1800 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+107.1850 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+107.1896 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+107.2055 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+107.2221 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+107.2386 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+107.2553 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+107.2723 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+107.2888 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+107.3055 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+107.3223 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+107.3241 	EXP 	New trial (rep=0, index=1): OrderedDict([('dirs', 'Online_conjL4_syn//cBU20.none.wav'), ('time', 'none')])
+107.3397 	DATA 	Keypress: y
+107.3432 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+107.3432 	EXP 	text_13: autoDraw = False
+107.3432 	EXP 	text_13: autoDraw = True
+107.3432 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+107.3555 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+107.3723 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+107.3889 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+107.4056 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+107.4224 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+107.4389 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+107.4557 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+107.4724 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+107.4892 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+107.5056 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+107.5222 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+107.5391 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+107.5557 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+107.5578 	EXP 	New trial (rep=0, index=2): OrderedDict([('dirs', 'Online_conjL4_syn//cBU22.0.wav'), ('time', 0.0)])
+107.5655 	DATA 	Keypress: y
+107.5723 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+107.5723 	EXP 	text_13: autoDraw = False
+107.5723 	EXP 	text_13: autoDraw = True
+107.5723 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+107.5891 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+107.6058 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+107.6225 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+107.6395 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+107.6557 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+107.6726 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+107.6893 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+107.7059 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+107.7225 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+107.7394 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+107.7414 	DATA 	Keypress: y
+107.7561 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+107.7578 	EXP 	New trial (rep=0, index=3): OrderedDict([('dirs', 'Online_conjL4_syn//cBU21.none.wav'), ('time', 'none')])
+107.7727 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+107.7727 	EXP 	text_13: autoDraw = False
+107.7727 	EXP 	text_13: autoDraw = True
+107.7727 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+107.7895 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+107.8061 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+107.8228 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+107.8395 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+107.8561 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+107.8728 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+107.8896 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+107.9061 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+107.9229 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+107.9395 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+107.9414 	EXP 	New trial (rep=0, index=13): OrderedDict([('cond', 'ja'), ('ord', '36:40'), ('colour', 'green')])
+107.9522 	EXP 	Imported directory_online_conj_L4_syn.csv as conditions, 4 conditions, 2 params
+107.9525 	EXP 	Created sequence: random, trialTypes=4, nReps=1, seed=None
+107.9528 	EXP 	New trial (rep=0, index=0): OrderedDict([('dirs', 'Online_conjL4_syn//bJA7.none.wav'), ('time', 'none')])
+107.9798 	DATA 	Keypress: y
+107.9839 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+107.9839 	EXP 	text_13: autoDraw = False
+107.9839 	EXP 	text_2: height = 0.05
+107.9839 	EXP 	text_2: height = 0.05
+107.9839 	EXP 	text_2: height = 0.05
+107.9839 	EXP 	text_2: text = 'ja'
+107.9839 	EXP 	text_2: autoDraw = True
+107.9839 	EXP 	text_2: autoDraw = False
+107.9839 	EXP 	text_2: autoDraw = False
+107.9839 	EXP 	text_13: autoDraw = True
+107.9839 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+107.9889 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+107.9933 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+108.0063 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+108.0230 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+108.0397 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+108.0562 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+108.0730 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+108.0896 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+108.1064 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+108.1084 	DATA 	Keypress: y
+108.1229 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+108.1249 	EXP 	New trial (rep=0, index=1): OrderedDict([('dirs', 'Online_conjL4_syn//bJA6.666.wav'), ('time', 666.0)])
+108.1453 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+108.1453 	EXP 	text_13: autoDraw = False
+108.1453 	EXP 	text_13: autoDraw = True
+108.1453 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+108.1564 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+108.1730 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+108.1899 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+108.2065 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+108.2231 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+108.2396 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+108.2563 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+108.2733 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+108.2900 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+108.3064 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+108.3081 	EXP 	New trial (rep=0, index=2): OrderedDict([('dirs', 'Online_conjL4_syn//bJA5.none.wav'), ('time', 'none')])
+108.3155 	DATA 	Keypress: y
+108.3232 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+108.3232 	EXP 	text_13: autoDraw = False
+108.3232 	EXP 	text_13: autoDraw = True
+108.3232 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+108.3399 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+108.3567 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+108.3732 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+108.3900 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+108.4067 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+108.4233 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+108.4401 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+108.4567 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+108.4735 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+108.4900 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+108.4921 	DATA 	Keypress: y
+108.5067 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+108.5088 	EXP 	New trial (rep=0, index=3): OrderedDict([('dirs', 'Online_conjL4_syn//bJA4.0.wav'), ('time', 0.0)])
+108.5270 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+108.5270 	EXP 	text_13: autoDraw = False
+108.5270 	EXP 	text_13: autoDraw = True
+108.5270 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+108.5402 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+108.5567 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+108.5734 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+108.5901 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+108.6067 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+108.6234 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+108.6400 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+108.6569 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+108.6736 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+108.6903 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+108.6921 	EXP 	New trial (rep=0, index=14): OrderedDict([('cond', 'pe'), ('ord', '96:100'), ('colour', 'red')])
+108.7023 	EXP 	Imported directory_online_conj_L4_syn.csv as conditions, 4 conditions, 2 params
+108.7027 	EXP 	Created sequence: random, trialTypes=4, nReps=1, seed=None
+108.7029 	EXP 	New trial (rep=0, index=0): OrderedDict([('dirs', 'Online_conjL4_syn//dPE2.none.wav'), ('time', 'none')])
+108.7231 	DATA 	Keypress: y
+108.7267 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+108.7267 	EXP 	text_13: autoDraw = False
+108.7267 	EXP 	text_2: height = 0.05
+108.7267 	EXP 	text_2: height = 0.05
+108.7267 	EXP 	text_2: height = 0.05
+108.7267 	EXP 	text_2: text = 'pe'
+108.7267 	EXP 	text_2: autoDraw = True
+108.7267 	EXP 	text_2: autoDraw = False
+108.7267 	EXP 	text_2: autoDraw = False
+108.7267 	EXP 	text_13: autoDraw = True
+108.7267 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+108.7316 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+108.7405 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+108.7569 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+108.7736 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+108.7904 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+108.8069 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+108.8239 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+108.8405 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+108.8571 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+108.8737 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+108.8758 	DATA 	Keypress: y
+108.8905 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+108.8925 	EXP 	New trial (rep=0, index=1): OrderedDict([('dirs', 'Online_conjL4_syn//dPE3.none.wav'), ('time', 'none')])
+108.9170 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+108.9170 	EXP 	text_13: autoDraw = False
+108.9170 	EXP 	text_13: autoDraw = True
+108.9170 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+108.9239 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+108.9405 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+108.9574 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+108.9739 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+108.9904 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+109.0072 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+109.0239 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+109.0406 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+109.0573 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+109.0738 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+109.0906 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+109.0925 	EXP 	New trial (rep=0, index=2): OrderedDict([('dirs', 'Online_conjL4_syn//dPE1.none.wav'), ('time', 'none')])
+109.1032 	DATA 	Keypress: y
+109.1073 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+109.1073 	EXP 	text_13: autoDraw = False
+109.1073 	EXP 	text_13: autoDraw = True
+109.1073 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+109.1239 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+109.1407 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+109.1574 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+109.1740 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+109.1907 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+109.2074 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+109.2241 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+109.2406 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+109.2573 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+109.2743 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+109.2909 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+109.2926 	EXP 	New trial (rep=0, index=3): OrderedDict([('dirs', 'Online_conjL4_syn//dPE0.1554.wav'), ('time', 1554.0)])
+109.3091 	DATA 	Keypress: y
+109.3128 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+109.3128 	EXP 	text_13: autoDraw = False
+109.3128 	EXP 	text_13: autoDraw = True
+109.3128 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+109.3243 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+109.3410 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+109.3576 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+109.3742 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+109.3909 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+109.4077 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+109.4243 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+109.4410 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+109.4578 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+109.4597 	EXP 	New trial (rep=0, index=15): OrderedDict([('cond', 'bu'), ('ord', '72:76'), ('colour', 'orange')])
+109.4698 	EXP 	Imported directory_online_conj_L4_syn.csv as conditions, 4 conditions, 2 params
+109.4702 	EXP 	Created sequence: random, trialTypes=4, nReps=1, seed=None
+109.4704 	EXP 	New trial (rep=0, index=0): OrderedDict([('dirs', 'Online_conjL4_syn//cBU11.none.wav'), ('time', 'none')])
+109.5001 	DATA 	Keypress: y
+109.5038 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+109.5038 	EXP 	text_13: autoDraw = False
+109.5038 	EXP 	text_2: height = 0.05
+109.5038 	EXP 	text_2: height = 0.05
+109.5038 	EXP 	text_2: height = 0.05
+109.5038 	EXP 	text_2: text = 'bu'
+109.5038 	EXP 	text_2: autoDraw = True
+109.5038 	EXP 	text_2: autoDraw = False
+109.5038 	EXP 	text_2: autoDraw = False
+109.5038 	EXP 	text_13: autoDraw = True
+109.5038 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+109.5088 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+109.5133 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+109.5245 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+109.5411 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+109.5579 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+109.5746 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+109.5911 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+109.6078 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+109.6245 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+109.6412 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+109.6431 	EXP 	New trial (rep=0, index=1): OrderedDict([('dirs', 'Online_conjL4_syn//cBU9.none.wav'), ('time', 'none')])
+109.6535 	DATA 	Keypress: y
+109.6578 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+109.6578 	EXP 	text_13: autoDraw = False
+109.6578 	EXP 	text_13: autoDraw = True
+109.6578 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+109.6744 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+109.6912 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+109.7079 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+109.7246 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+109.7413 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+109.7581 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+109.7747 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+109.7914 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+109.8081 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+109.8099 	EXP 	New trial (rep=0, index=2): OrderedDict([('dirs', 'Online_conjL4_syn//cBU8.1110.wav'), ('time', 1110.0)])
+109.8194 	DATA 	Keypress: y
+109.8248 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+109.8248 	EXP 	text_13: autoDraw = False
+109.8248 	EXP 	text_13: autoDraw = True
+109.8248 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+109.8413 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+109.8582 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+109.8748 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+109.8914 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+109.9081 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+109.9249 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+109.9415 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+109.9582 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+109.9749 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+109.9915 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+110.0083 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+110.0101 	EXP 	New trial (rep=0, index=3): OrderedDict([('dirs', 'Online_conjL4_syn//cBU10.1332.wav'), ('time', 1332.0)])
+110.0189 	DATA 	Keypress: y
+110.0250 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+110.0250 	EXP 	text_13: autoDraw = False
+110.0250 	EXP 	text_13: autoDraw = True
+110.0250 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+110.0416 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+110.0584 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+110.0749 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+110.0916 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+110.1084 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+110.1252 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+110.1416 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+110.1584 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+110.1752 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+110.1917 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+110.2085 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+110.2252 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+110.2270 	EXP 	New trial (rep=0, index=16): OrderedDict([('cond', 'lo'), ('ord', '12:16'), ('colour', 'blue')])
+110.2382 	EXP 	Imported directory_online_conj_L4_syn.csv as conditions, 4 conditions, 2 params
+110.2386 	EXP 	Created sequence: random, trialTypes=4, nReps=1, seed=None
+110.2388 	EXP 	New trial (rep=0, index=0): OrderedDict([('dirs', 'Online_conjL4_syn//aLO12.666.wav'), ('time', 666.0)])
+110.2688 	DATA 	Keypress: y
+110.2728 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+110.2728 	EXP 	text_13: autoDraw = False
+110.2728 	EXP 	text_2: height = 0.05
+110.2728 	EXP 	text_2: height = 0.05
+110.2728 	EXP 	text_2: height = 0.05
+110.2728 	EXP 	text_2: text = 'lo'
+110.2728 	EXP 	text_2: autoDraw = True
+110.2728 	EXP 	text_2: autoDraw = False
+110.2728 	EXP 	text_2: autoDraw = False
+110.2728 	EXP 	text_13: autoDraw = True
+110.2728 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+110.2781 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+110.2824 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+110.2919 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+110.3086 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+110.3251 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+110.3419 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+110.3585 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+110.3751 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+110.3920 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+110.4087 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+110.4106 	EXP 	New trial (rep=0, index=1): OrderedDict([('dirs', 'Online_conjL4_syn//aLO14.1554.wav'), ('time', 1554.0)])
+110.4256 	DATA 	Keypress: y
+110.4292 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+110.4292 	EXP 	text_13: autoDraw = False
+110.4292 	EXP 	text_13: autoDraw = True
+110.4292 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+110.4421 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+110.4587 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+110.4755 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+110.4920 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+110.5087 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+110.5255 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+110.5422 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+110.5588 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+110.5755 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+110.5922 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+110.6088 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+110.6108 	EXP 	New trial (rep=0, index=2): OrderedDict([('dirs', 'Online_conjL4_syn//aLO15.none.wav'), ('time', 'none')])
+110.6215 	DATA 	Keypress: y
+110.6255 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+110.6255 	EXP 	text_13: autoDraw = False
+110.6255 	EXP 	text_13: autoDraw = True
+110.6255 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+110.6421 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+110.6589 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+110.6755 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+110.6923 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+110.7089 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+110.7254 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+110.7421 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+110.7591 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+110.7756 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+110.7925 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+110.8092 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+110.8256 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+110.8425 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+110.8592 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+110.8758 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+110.8777 	DATA 	Keypress: y
+110.8924 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+110.8941 	EXP 	New trial (rep=0, index=3): OrderedDict([('dirs', 'Online_conjL4_syn//aLO13.none.wav'), ('time', 'none')])
+110.9125 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+110.9125 	EXP 	text_13: autoDraw = False
+110.9125 	EXP 	text_13: autoDraw = True
+110.9125 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+110.9257 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+110.9425 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+110.9593 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+110.9759 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+110.9926 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+111.0093 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+111.0259 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+111.0426 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+111.0595 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+111.0760 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+111.0778 	EXP 	New trial (rep=0, index=17): OrderedDict([('cond', 'lo'), ('ord', '28:32'), ('colour', 'blue')])
+111.0871 	EXP 	Imported directory_online_conj_L4_syn.csv as conditions, 4 conditions, 2 params
+111.0874 	EXP 	Created sequence: random, trialTypes=4, nReps=1, seed=None
+111.0876 	EXP 	New trial (rep=0, index=0): OrderedDict([('dirs', 'Online_conjL4_syn//aLO31.none.wav'), ('time', 'none')])
+111.1045 	DATA 	Keypress: y
+111.1088 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+111.1088 	EXP 	text_13: autoDraw = False
+111.1088 	EXP 	text_2: text = 'lo'
+111.1088 	EXP 	text_2: autoDraw = True
+111.1088 	EXP 	text_2: autoDraw = False
+111.1088 	EXP 	text_2: autoDraw = False
+111.1088 	EXP 	text_13: autoDraw = True
+111.1088 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+111.1138 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+111.1260 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+111.1428 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+111.1595 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+111.1761 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+111.1928 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+111.2097 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+111.2261 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+111.2429 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+111.2594 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+111.2612 	DATA 	Keypress: y
+111.2763 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+111.2783 	EXP 	New trial (rep=0, index=1): OrderedDict([('dirs', 'Online_conjL4_syn//aLO30.666.wav'), ('time', 666.0)])
+111.2976 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+111.2976 	EXP 	text_13: autoDraw = False
+111.2976 	EXP 	text_13: autoDraw = True
+111.2976 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+111.3096 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+111.3262 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+111.3429 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+111.3597 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+111.3762 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+111.3930 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+111.4096 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+111.4264 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+111.4431 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+111.4595 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+111.4613 	EXP 	New trial (rep=0, index=2): OrderedDict([('dirs', 'Online_conjL4_syn//aLO29.1554.wav'), ('time', 1554.0)])
+111.6694 	DATA 	Keypress: y
+111.6745 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+111.6745 	EXP 	text_13: autoDraw = False
+111.6745 	EXP 	text_13: autoDraw = True
+111.6745 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+111.6779 	EXP 	New trial (rep=0, index=3): OrderedDict([('dirs', 'Online_conjL4_syn//aLO28.1554.wav'), ('time', 1554.0)])
+111.8282 	DATA 	Keypress: y
+111.8322 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+111.8322 	EXP 	text_13: autoDraw = False
+111.8322 	EXP 	text_13: autoDraw = True
+111.8322 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+111.8364 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+111.8435 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+111.8602 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+111.8620 	EXP 	New trial (rep=0, index=18): OrderedDict([('cond', 'lo'), ('ord', '0:4'), ('colour', 'blue')])
+111.8707 	EXP 	Imported directory_online_conj_L4_syn.csv as conditions, 4 conditions, 2 params
+111.8710 	EXP 	Created sequence: random, trialTypes=4, nReps=1, seed=None
+111.8712 	EXP 	New trial (rep=0, index=0): OrderedDict([('dirs', 'Online_conjL4_syn//aLO0.none.wav'), ('time', 'none')])
+111.9082 	DATA 	Keypress: y
+111.9121 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+111.9121 	EXP 	text_13: autoDraw = False
+111.9121 	EXP 	text_2: text = 'lo'
+111.9121 	EXP 	text_2: autoDraw = True
+111.9121 	EXP 	text_2: autoDraw = False
+111.9121 	EXP 	text_2: autoDraw = False
+111.9121 	EXP 	text_13: autoDraw = True
+111.9121 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+111.9168 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+111.9269 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+111.9435 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+111.9603 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+111.9770 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+111.9935 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+112.0103 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+112.0269 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+112.0292 	DATA 	Keypress: y
+112.0437 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+112.0456 	EXP 	New trial (rep=0, index=1): OrderedDict([('dirs', 'Online_conjL4_syn//aLO1.1554.wav'), ('time', 1554.0)])
+112.0617 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+112.0617 	EXP 	text_13: autoDraw = False
+112.0617 	EXP 	text_13: autoDraw = True
+112.0617 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+112.0769 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+112.0937 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+112.1105 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+112.1271 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+112.1438 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+112.1603 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+112.1770 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+112.1937 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+112.1955 	EXP 	New trial (rep=0, index=2): OrderedDict([('dirs', 'Online_conjL4_syn//aLO2.none.wav'), ('time', 'none')])
+112.2123 	DATA 	Keypress: y
+112.2161 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+112.2161 	EXP 	text_13: autoDraw = False
+112.2161 	EXP 	text_13: autoDraw = True
+112.2161 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+112.2271 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+112.2439 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+112.2605 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+112.2772 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+112.2939 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+112.3105 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+112.3272 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+112.3440 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+112.3606 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+112.3771 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+112.3791 	EXP 	New trial (rep=0, index=3): OrderedDict([('dirs', 'Online_conjL4_syn//aLO3.none.wav'), ('time', 'none')])
+112.3969 	DATA 	Keypress: y
+112.4008 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+112.4008 	EXP 	text_13: autoDraw = False
+112.4008 	EXP 	text_13: autoDraw = True
+112.4008 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+112.4107 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+112.4274 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+112.4441 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+112.4607 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+112.4775 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+112.4941 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+112.5107 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+112.5275 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+112.5294 	EXP 	New trial (rep=0, index=19): OrderedDict([('cond', 'lo'), ('ord', '8:12'), ('colour', 'blue')])
+112.5414 	EXP 	Imported directory_online_conj_L4_syn.csv as conditions, 4 conditions, 2 params
+112.5417 	EXP 	Created sequence: random, trialTypes=4, nReps=1, seed=None
+112.5421 	EXP 	New trial (rep=0, index=0): OrderedDict([('dirs', 'Online_conjL4_syn//aLO8.none.wav'), ('time', 'none')])
+112.5583 	DATA 	Keypress: y
+112.5632 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+112.5632 	EXP 	text_13: autoDraw = False
+112.5632 	EXP 	text_2: text = 'lo'
+112.5632 	EXP 	text_2: autoDraw = True
+112.5632 	EXP 	text_2: autoDraw = False
+112.5632 	EXP 	text_2: autoDraw = False
+112.5632 	EXP 	text_13: autoDraw = True
+112.5632 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+112.5680 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+112.5774 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+112.5942 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+112.6109 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+112.6274 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+112.6443 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+112.6608 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+112.6774 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+112.6942 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+112.7110 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+112.7127 	EXP 	New trial (rep=0, index=1): OrderedDict([('dirs', 'Online_conjL4_syn//aLO9.none.wav'), ('time', 'none')])
+112.7319 	DATA 	Keypress: y
+112.7356 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+112.7356 	EXP 	text_13: autoDraw = False
+112.7356 	EXP 	text_13: autoDraw = True
+112.7356 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+112.7443 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+112.7609 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+112.7776 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+112.7943 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+112.8109 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+112.8275 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+112.8443 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+112.8610 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+112.8779 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+112.8800 	EXP 	New trial (rep=0, index=2): OrderedDict([('dirs', 'Online_conjL4_syn//aLO11.666.wav'), ('time', 666.0)])
+112.8867 	DATA 	Keypress: y
+112.8943 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+112.8943 	EXP 	text_13: autoDraw = False
+112.8943 	EXP 	text_13: autoDraw = True
+112.8943 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+112.9109 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+112.9276 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+112.9444 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+112.9611 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+112.9779 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+112.9946 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+113.0116 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+113.0277 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+113.0447 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+113.0613 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+113.0630 	EXP 	New trial (rep=0, index=3): OrderedDict([('dirs', 'Online_conjL4_syn//aLO10.none.wav'), ('time', 'none')])
+113.0720 	DATA 	Keypress: y
+113.0779 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+113.0779 	EXP 	text_13: autoDraw = False
+113.0779 	EXP 	text_13: autoDraw = True
+113.0779 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+113.0946 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+113.1112 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+113.1281 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+113.1445 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+113.1614 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+113.1780 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+113.1947 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+113.2113 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+113.2282 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+113.2300 	DATA 	Keypress: y
+113.2447 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+113.2465 	EXP 	New trial (rep=0, index=20): OrderedDict([('cond', 'lo'), ('ord', '20:24'), ('colour', 'blue')])
+113.2557 	EXP 	Imported directory_online_conj_L4_syn.csv as conditions, 4 conditions, 2 params
+113.2560 	EXP 	Created sequence: random, trialTypes=4, nReps=1, seed=None
+113.2562 	EXP 	New trial (rep=0, index=0): OrderedDict([('dirs', 'Online_conjL4_syn//aLO20.666.wav'), ('time', 666.0)])
+113.2670 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+113.2670 	EXP 	text_13: autoDraw = False
+113.2670 	EXP 	text_2: text = 'lo'
+113.2670 	EXP 	text_2: autoDraw = True
+113.2670 	EXP 	text_2: autoDraw = False
+113.2670 	EXP 	text_2: autoDraw = False
+113.2670 	EXP 	text_13: autoDraw = True
+113.2670 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+113.2782 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+113.2948 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+113.3114 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+113.3283 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+113.3449 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+113.3615 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+113.3784 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+113.3948 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+113.4116 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+113.4134 	EXP 	New trial (rep=0, index=1): OrderedDict([('dirs', 'Online_conjL4_syn//aLO22.none.wav'), ('time', 'none')])
+113.4276 	DATA 	Keypress: y
+113.4317 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+113.4317 	EXP 	text_13: autoDraw = False
+113.4317 	EXP 	text_13: autoDraw = True
+113.4317 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+113.4449 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+113.4617 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+113.4784 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+113.4950 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+113.5116 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+113.5285 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+113.5451 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+113.5617 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+113.5784 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+113.5803 	EXP 	New trial (rep=0, index=2): OrderedDict([('dirs', 'Online_conjL4_syn//aLO21.666.wav'), ('time', 666.0)])
+113.5958 	DATA 	Keypress: y
+113.5996 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+113.5996 	EXP 	text_13: autoDraw = False
+113.5996 	EXP 	text_13: autoDraw = True
+113.5996 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+113.6119 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+113.6284 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+113.6453 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+113.6620 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+113.6785 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+113.6954 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+113.7119 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+113.7286 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+113.7453 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+113.7471 	EXP 	New trial (rep=0, index=3): OrderedDict([('dirs', 'Online_conjL4_syn//aLO23.none.wav'), ('time', 'none')])
+113.7619 	DATA 	Keypress: y
+113.7659 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+113.7659 	EXP 	text_13: autoDraw = False
+113.7659 	EXP 	text_13: autoDraw = True
+113.7659 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+113.7788 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+113.7953 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+113.8121 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+113.8288 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+113.8454 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+113.8620 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+113.8786 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+113.8955 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+113.9122 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+113.9287 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+113.9455 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+113.9622 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+113.9788 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+113.9956 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+114.0123 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+114.0289 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+114.0457 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+114.0623 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+114.0791 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+114.0811 	EXP 	New trial (rep=0, index=21): OrderedDict([('cond', 'ja'), ('ord', '56:60'), ('colour', 'green')])
+114.0995 	EXP 	Imported directory_online_conj_L4_syn.csv as conditions, 4 conditions, 2 params
+114.0999 	EXP 	Created sequence: random, trialTypes=4, nReps=1, seed=None
+114.1001 	EXP 	New trial (rep=0, index=0): OrderedDict([('dirs', 'Online_conjL4_syn//bJA24.0.wav'), ('time', 0.0)])
+114.1135 	DATA 	Keypress: y
+114.1175 	EXP 	text_13: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+114.1175 	EXP 	text_13: autoDraw = False
+114.1175 	EXP 	text_2: height = 0.05
+114.1175 	EXP 	text_2: height = 0.05
+114.1175 	EXP 	text_2: height = 0.05
+114.1175 	EXP 	text_2: text = 'ja'
+114.1175 	EXP 	text_2: autoDraw = True
+114.1175 	EXP 	text_2: autoDraw = False
+114.1175 	EXP 	text_2: autoDraw = False
+114.1175 	EXP 	text_13: autoDraw = True
+114.1175 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+114.1226 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+114.1291 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+114.1457 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+114.1624 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+114.1790 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+114.1958 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+114.2125 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+114.2292 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+114.2457 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+114.2626 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+114.2791 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+114.2819 	EXP 	New trial (rep=0, index=1): OrderedDict([('dirs', 'Online_conjL4_syn//bJA26.none.wav'), ('time', 'none')])
+114.2973 	DATA 	Keypress: y
+114.3018 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+114.3018 	EXP 	text_13: autoDraw = False
+114.3018 	EXP 	text_13: autoDraw = True
+114.3018 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+114.3124 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+114.3292 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+114.3460 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+114.3627 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+114.3795 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+114.3959 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+114.4127 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+114.4294 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+114.4459 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+114.4628 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+114.4793 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+114.4822 	EXP 	New trial (rep=0, index=2): OrderedDict([('dirs', 'Online_conjL4_syn//bJA25.none.wav'), ('time', 'none')])
+114.5066 	DATA 	Keypress: y
+114.5106 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+114.5106 	EXP 	text_13: autoDraw = False
+114.5106 	EXP 	text_13: autoDraw = True
+114.5106 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+114.5150 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+114.5294 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+114.5459 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+114.5626 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+114.5793 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+114.5963 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+114.6130 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+114.6294 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+114.6464 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+114.6631 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+114.6795 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+114.6812 	EXP 	New trial (rep=0, index=3): OrderedDict([('dirs', 'Online_conjL4_syn//bJA27.666.wav'), ('time', 666.0)])
+114.6972 	DATA 	Keypress: y
+114.7015 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+114.7015 	EXP 	text_13: autoDraw = False
+114.7015 	EXP 	text_13: autoDraw = True
+114.7015 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+114.7128 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+114.7298 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+114.7463 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+114.7629 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+114.7797 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+114.7965 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+114.8130 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+114.8297 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+114.8464 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+114.8630 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+114.8650 	EXP 	New trial (rep=0, index=22): OrderedDict([('cond', 'pe'), ('ord', '116:120'), ('colour', 'red')])
+114.8762 	EXP 	Imported directory_online_conj_L4_syn.csv as conditions, 4 conditions, 2 params
+114.8766 	EXP 	Created sequence: random, trialTypes=4, nReps=1, seed=None
+114.8768 	EXP 	New trial (rep=0, index=0): OrderedDict([('dirs', 'Online_conjL4_syn//dPE21.1554.wav'), ('time', 1554.0)])
+114.8915 	DATA 	Keypress: y
+114.8955 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+114.8955 	EXP 	text_13: autoDraw = False
+114.8955 	EXP 	text_2: height = 0.05
+114.8955 	EXP 	text_2: height = 0.05
+114.8955 	EXP 	text_2: height = 0.05
+114.8955 	EXP 	text_2: text = 'pe'
+114.8955 	EXP 	text_2: autoDraw = True
+114.8955 	EXP 	text_2: autoDraw = False
+114.8955 	EXP 	text_2: autoDraw = False
+114.8955 	EXP 	text_13: autoDraw = True
+114.8955 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+114.9007 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+114.9130 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+114.9296 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+114.9463 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+114.9632 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+114.9799 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+114.9965 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+115.0133 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+115.0300 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+115.0466 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+115.0632 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+115.0651 	EXP 	New trial (rep=0, index=1): OrderedDict([('dirs', 'Online_conjL4_syn//dPE22.222.wav'), ('time', 222.0)])
+115.0858 	DATA 	Keypress: y
+115.0898 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+115.0898 	EXP 	text_13: autoDraw = False
+115.0898 	EXP 	text_13: autoDraw = True
+115.0898 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+115.0966 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+115.1132 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+115.1301 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+115.1468 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+115.1634 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+115.1801 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+115.1967 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+115.2135 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+115.2302 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+115.2468 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+115.2487 	EXP 	New trial (rep=0, index=2): OrderedDict([('dirs', 'Online_conjL4_syn//dPE23.none.wav'), ('time', 'none')])
+115.2651 	DATA 	Keypress: y
+115.2696 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+115.2696 	EXP 	text_13: autoDraw = False
+115.2696 	EXP 	text_13: autoDraw = True
+115.2696 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+115.2802 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+115.2969 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+115.3136 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+115.3303 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+115.3468 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+115.3636 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+115.3804 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+115.3969 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+115.4137 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+115.4303 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+115.4320 	EXP 	New trial (rep=0, index=3): OrderedDict([('dirs', 'Online_conjL4_syn//dPE20.222.wav'), ('time', 222.0)])
+115.4455 	DATA 	Keypress: y
+115.4496 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+115.4496 	EXP 	text_13: autoDraw = False
+115.4496 	EXP 	text_13: autoDraw = True
+115.4496 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+115.4637 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+115.4803 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+115.4970 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+115.5138 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+115.5306 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+115.5471 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+115.5637 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+115.5804 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+115.5971 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+115.6137 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+115.6156 	EXP 	New trial (rep=0, index=23): OrderedDict([('cond', 'ja'), ('ord', '52:56'), ('colour', 'green')])
+115.6259 	EXP 	Imported directory_online_conj_L4_syn.csv as conditions, 4 conditions, 2 params
+115.6262 	EXP 	Created sequence: random, trialTypes=4, nReps=1, seed=None
+115.6265 	EXP 	New trial (rep=0, index=0): OrderedDict([('dirs', 'Online_conjL4_syn//bJA20.none.wav'), ('time', 'none')])
+115.6649 	DATA 	Keypress: y
+115.6690 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+115.6690 	EXP 	text_13: autoDraw = False
+115.6690 	EXP 	text_2: height = 0.05
+115.6690 	EXP 	text_2: height = 0.05
+115.6690 	EXP 	text_2: height = 0.05
+115.6690 	EXP 	text_2: text = 'ja'
+115.6690 	EXP 	text_2: autoDraw = True
+115.6690 	EXP 	text_2: autoDraw = False
+115.6690 	EXP 	text_2: autoDraw = False
+115.6690 	EXP 	text_13: autoDraw = True
+115.6690 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+115.6738 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+115.6806 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+115.6972 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+115.7139 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+115.7307 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+115.7472 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+115.7639 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+115.7806 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+115.7972 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+115.7992 	EXP 	New trial (rep=0, index=1): OrderedDict([('dirs', 'Online_conjL4_syn//bJA23.0.wav'), ('time', 0.0)])
+115.8113 	DATA 	Keypress: y
+115.8154 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+115.8154 	EXP 	text_13: autoDraw = False
+115.8154 	EXP 	text_13: autoDraw = True
+115.8154 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+115.8308 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+115.8474 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+115.8641 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+115.8808 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+115.8974 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+115.9142 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+115.9307 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+115.9475 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+115.9641 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+115.9663 	EXP 	New trial (rep=0, index=2): OrderedDict([('dirs', 'Online_conjL4_syn//bJA21.666.wav'), ('time', 666.0)])
+115.9744 	DATA 	Keypress: y
+115.9807 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+115.9807 	EXP 	text_13: autoDraw = False
+115.9807 	EXP 	text_13: autoDraw = True
+115.9807 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+115.9974 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+116.0143 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+116.0310 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+116.0476 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+116.0642 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+116.0810 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+116.0977 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+116.1142 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+116.1313 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+116.1476 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+116.1642 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+116.1662 	EXP 	New trial (rep=0, index=3): OrderedDict([('dirs', 'Online_conjL4_syn//bJA22.0.wav'), ('time', 0.0)])
+116.1767 	DATA 	Keypress: y
+116.1825 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+116.1825 	EXP 	text_13: autoDraw = False
+116.1825 	EXP 	text_13: autoDraw = True
+116.1825 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+116.1976 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+116.2142 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+116.2309 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+116.2477 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+116.2642 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+116.2809 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+116.2976 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+116.3143 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+116.3310 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+116.3333 	EXP 	New trial (rep=0, index=24): OrderedDict([('cond', 'bu'), ('ord', '88:92'), ('colour', 'orange')])
+116.3447 	EXP 	Imported directory_online_conj_L4_syn.csv as conditions, 4 conditions, 2 params
+116.3450 	EXP 	Created sequence: random, trialTypes=4, nReps=1, seed=None
+116.3453 	EXP 	New trial (rep=0, index=0): OrderedDict([('dirs', 'Online_conjL4_syn//cBU24.444.wav'), ('time', 444.0)])
+116.3688 	DATA 	Keypress: y
+116.3730 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+116.3730 	EXP 	text_13: autoDraw = False
+116.3730 	EXP 	text_2: height = 0.05
+116.3730 	EXP 	text_2: height = 0.05
+116.3730 	EXP 	text_2: height = 0.05
+116.3730 	EXP 	text_2: text = 'bu'
+116.3730 	EXP 	text_2: autoDraw = True
+116.3730 	EXP 	text_2: autoDraw = False
+116.3730 	EXP 	text_2: autoDraw = False
+116.3730 	EXP 	text_13: autoDraw = True
+116.3730 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+116.3775 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+116.3812 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+116.3977 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+116.4144 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+116.4311 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+116.4478 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+116.4644 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+116.4811 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+116.4978 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+116.5145 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+116.5312 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+116.5329 	EXP 	New trial (rep=0, index=1): OrderedDict([('dirs', 'Online_conjL4_syn//cBU27.none.wav'), ('time', 'none')])
+116.5522 	DATA 	Keypress: y
+116.5564 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+116.5564 	EXP 	text_13: autoDraw = False
+116.5564 	EXP 	text_13: autoDraw = True
+116.5564 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+116.5646 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+116.5812 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+116.5980 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+116.6146 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+116.6313 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+116.6480 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+116.6647 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+116.6814 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+116.6980 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+116.6998 	DATA 	Keypress: y
+116.7147 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+116.7164 	EXP 	New trial (rep=0, index=2): OrderedDict([('dirs', 'Online_conjL4_syn//cBU26.222.wav'), ('time', 222.0)])
+116.7314 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+116.7314 	EXP 	text_13: autoDraw = False
+116.7314 	EXP 	text_13: autoDraw = True
+116.7314 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+116.7481 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+116.7648 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+116.7815 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+116.7982 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+116.8148 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+116.8315 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+116.8482 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+116.8649 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+116.8816 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+116.8835 	EXP 	New trial (rep=0, index=3): OrderedDict([('dirs', 'Online_conjL4_syn//cBU25.none.wav'), ('time', 'none')])
+116.8905 	DATA 	Keypress: y
+116.8983 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+116.8983 	EXP 	text_13: autoDraw = False
+116.8983 	EXP 	text_13: autoDraw = True
+116.8983 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+116.9150 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+116.9316 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+116.9483 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+116.9651 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+116.9817 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+116.9984 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+117.0152 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+117.0319 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+117.0485 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+117.0651 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+117.0819 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+117.0837 	EXP 	New trial (rep=0, index=25): OrderedDict([('cond', 'pe'), ('ord', '124:128'), ('colour', 'red')])
+117.0934 	EXP 	Imported directory_online_conj_L4_syn.csv as conditions, 4 conditions, 2 params
+117.0937 	EXP 	Created sequence: random, trialTypes=4, nReps=1, seed=None
+117.0940 	EXP 	New trial (rep=0, index=0): OrderedDict([('dirs', 'Online_conjL4_syn//dPE29.1110.wav'), ('time', 1110.0)])
+117.1082 	DATA 	Keypress: y
+117.1127 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+117.1127 	EXP 	text_13: autoDraw = False
+117.1127 	EXP 	text_2: height = 0.05
+117.1127 	EXP 	text_2: height = 0.05
+117.1127 	EXP 	text_2: height = 0.05
+117.1127 	EXP 	text_2: text = 'pe'
+117.1127 	EXP 	text_2: autoDraw = True
+117.1127 	EXP 	text_2: autoDraw = False
+117.1127 	EXP 	text_2: autoDraw = False
+117.1127 	EXP 	text_13: autoDraw = True
+117.1127 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+117.1175 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+117.1319 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+117.1488 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+117.1655 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+117.1821 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+117.1988 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+117.2155 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+117.2323 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+117.2489 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+117.2654 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+117.2674 	EXP 	New trial (rep=0, index=1): OrderedDict([('dirs', 'Online_conjL4_syn//dPE30.222.wav'), ('time', 222.0)])
+117.2916 	DATA 	Keypress: y
+117.2956 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+117.2956 	EXP 	text_13: autoDraw = False
+117.2956 	EXP 	text_13: autoDraw = True
+117.2956 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+117.3004 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+117.3155 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+117.3323 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+117.3489 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+117.3656 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+117.3823 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+117.3993 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+117.4157 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+117.4323 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+117.4493 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+117.4511 	EXP 	New trial (rep=0, index=2): OrderedDict([('dirs', 'Online_conjL4_syn//dPE28.none.wav'), ('time', 'none')])
+117.4613 	DATA 	Keypress: y
+117.4657 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+117.4657 	EXP 	text_13: autoDraw = False
+117.4657 	EXP 	text_13: autoDraw = True
+117.4657 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+117.4824 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+117.4993 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+117.5159 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+117.5325 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+117.5490 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+117.5659 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+117.5824 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+117.5991 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+117.6157 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+117.6174 	EXP 	New trial (rep=0, index=3): OrderedDict([('dirs', 'Online_conjL4_syn//dPE31.1332.wav'), ('time', 1332.0)])
+117.6337 	DATA 	Keypress: y
+117.6376 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+117.6376 	EXP 	text_13: autoDraw = False
+117.6376 	EXP 	text_13: autoDraw = True
+117.6376 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+117.6493 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+117.6659 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+117.6825 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+117.6993 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+117.7159 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+117.7326 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+117.7494 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+117.7660 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+117.7826 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+117.7994 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+117.8012 	EXP 	New trial (rep=0, index=26): OrderedDict([('cond', 'ja'), ('ord', '44:48'), ('colour', 'green')])
+117.8135 	EXP 	Imported directory_online_conj_L4_syn.csv as conditions, 4 conditions, 2 params
+117.8140 	EXP 	Created sequence: random, trialTypes=4, nReps=1, seed=None
+117.8143 	EXP 	New trial (rep=0, index=0): OrderedDict([('dirs', 'Online_conjL4_syn//bJA14.none.wav'), ('time', 'none')])
+117.8306 	DATA 	Keypress: y
+117.8350 	EXP 	text_13: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+117.8350 	EXP 	text_13: autoDraw = False
+117.8350 	EXP 	text_2: height = 0.05
+117.8350 	EXP 	text_2: height = 0.05
+117.8350 	EXP 	text_2: height = 0.05
+117.8350 	EXP 	text_2: text = 'ja'
+117.8350 	EXP 	text_2: autoDraw = True
+117.8350 	EXP 	text_2: autoDraw = False
+117.8350 	EXP 	text_2: autoDraw = False
+117.8350 	EXP 	text_13: autoDraw = True
+117.8350 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+117.8400 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+117.8494 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+117.8661 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+117.8828 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+117.8996 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+117.9162 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+117.9327 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+117.9497 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+117.9662 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+117.9681 	EXP 	New trial (rep=0, index=1): OrderedDict([('dirs', 'Online_conjL4_syn//bJA15.none.wav'), ('time', 'none')])
+117.9851 	DATA 	Keypress: y
+117.9893 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+117.9893 	EXP 	text_13: autoDraw = False
+117.9893 	EXP 	text_13: autoDraw = True
+117.9893 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+117.9996 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+118.0163 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+118.0328 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+118.0497 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+118.0664 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+118.0828 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+118.0996 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+118.1163 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+118.1329 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+118.1498 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+118.1515 	EXP 	New trial (rep=0, index=2): OrderedDict([('dirs', 'Online_conjL4_syn//bJA12.666.wav'), ('time', 666.0)])
+118.1678 	DATA 	Keypress: y
+118.1721 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+118.1721 	EXP 	text_13: autoDraw = False
+118.1721 	EXP 	text_13: autoDraw = True
+118.1721 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+118.1831 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+118.1998 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+118.2164 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+118.2331 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+118.2499 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+118.2664 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+118.2833 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+118.2999 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+118.3165 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+118.3198 	EXP 	New trial (rep=0, index=3): OrderedDict([('dirs', 'Online_conjL4_syn//bJA13.none.wav'), ('time', 'none')])
+118.3437 	DATA 	Keypress: y
+118.3481 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+118.3481 	EXP 	text_13: autoDraw = False
+118.3481 	EXP 	text_13: autoDraw = True
+118.3481 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+118.3529 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+118.3666 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+118.3834 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+118.4000 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+118.4167 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+118.4334 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+118.4500 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+118.4666 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+118.4835 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+118.4853 	EXP 	New trial (rep=0, index=27): OrderedDict([('cond', 'bu'), ('ord', '80:84'), ('colour', 'orange')])
+118.4956 	EXP 	Imported directory_online_conj_L4_syn.csv as conditions, 4 conditions, 2 params
+118.4959 	EXP 	Created sequence: random, trialTypes=4, nReps=1, seed=None
+118.4961 	EXP 	New trial (rep=0, index=0): OrderedDict([('dirs', 'Online_conjL4_syn//cBU18.none.wav'), ('time', 'none')])
+118.5100 	DATA 	Keypress: y
+118.5143 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+118.5143 	EXP 	text_13: autoDraw = False
+118.5143 	EXP 	text_2: height = 0.05
+118.5143 	EXP 	text_2: height = 0.05
+118.5143 	EXP 	text_2: height = 0.05
+118.5143 	EXP 	text_2: text = 'bu'
+118.5143 	EXP 	text_2: autoDraw = True
+118.5143 	EXP 	text_2: autoDraw = False
+118.5143 	EXP 	text_2: autoDraw = False
+118.5143 	EXP 	text_13: autoDraw = True
+118.5143 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+118.5193 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+118.5334 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+118.5501 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+118.5666 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+118.5834 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+118.6002 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+118.6168 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+118.6336 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+118.6503 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+118.6668 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+118.6691 	DATA 	Keypress: y
+118.6835 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+118.6854 	EXP 	New trial (rep=0, index=1): OrderedDict([('dirs', 'Online_conjL4_syn//cBU19.none.wav'), ('time', 'none')])
+118.7025 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+118.7025 	EXP 	text_13: autoDraw = False
+118.7025 	EXP 	text_13: autoDraw = True
+118.7025 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+118.7170 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+118.7336 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+118.7504 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+118.7671 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+118.7838 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+118.8002 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+118.8171 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+118.8336 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+118.8504 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+118.8521 	EXP 	New trial (rep=0, index=2): OrderedDict([('dirs', 'Online_conjL4_syn//cBU16.1110.wav'), ('time', 1110.0)])
+118.8614 	DATA 	Keypress: y
+118.8670 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+118.8670 	EXP 	text_13: autoDraw = False
+118.8670 	EXP 	text_13: autoDraw = True
+118.8670 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+118.8838 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+118.9005 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+118.9172 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+118.9338 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+118.9505 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+118.9672 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+118.9838 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+119.0005 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+119.0172 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+119.0339 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+119.0362 	DATA 	Keypress: y
+119.0506 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+119.0526 	EXP 	New trial (rep=0, index=3): OrderedDict([('dirs', 'Online_conjL4_syn//cBU17.1332.wav'), ('time', 1332.0)])
+119.0731 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+119.0731 	EXP 	text_13: autoDraw = False
+119.0731 	EXP 	text_13: autoDraw = True
+119.0731 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+119.0839 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+119.1007 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+119.1174 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+119.1340 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+119.1507 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+119.1673 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+119.1838 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+119.2008 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+119.2175 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+119.2193 	EXP 	New trial (rep=0, index=28): OrderedDict([('cond', 'ja'), ('ord', '60:64'), ('colour', 'green')])
+119.2293 	EXP 	Imported directory_online_conj_L4_syn.csv as conditions, 4 conditions, 2 params
+119.2297 	EXP 	Created sequence: random, trialTypes=4, nReps=1, seed=None
+119.2299 	EXP 	New trial (rep=0, index=0): OrderedDict([('dirs', 'Online_conjL4_syn//bJA29.none.wav'), ('time', 'none')])
+119.2499 	DATA 	Keypress: y
+119.2551 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+119.2551 	EXP 	text_13: autoDraw = False
+119.2551 	EXP 	text_2: height = 0.05
+119.2551 	EXP 	text_2: height = 0.05
+119.2551 	EXP 	text_2: height = 0.05
+119.2551 	EXP 	text_2: text = 'ja'
+119.2551 	EXP 	text_2: autoDraw = True
+119.2551 	EXP 	text_2: autoDraw = False
+119.2551 	EXP 	text_2: autoDraw = False
+119.2551 	EXP 	text_13: autoDraw = True
+119.2551 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+119.2594 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+119.2674 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+119.2843 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+119.3007 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+119.3175 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+119.3342 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+119.3508 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+119.3677 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+119.3842 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+119.4009 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+119.4027 	EXP 	New trial (rep=0, index=1): OrderedDict([('dirs', 'Online_conjL4_syn//bJA30.none.wav'), ('time', 'none')])
+119.4193 	DATA 	Keypress: y
+119.4235 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+119.4235 	EXP 	text_13: autoDraw = False
+119.4235 	EXP 	text_13: autoDraw = True
+119.4235 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+119.4343 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+119.4510 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+119.4677 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+119.4844 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+119.5010 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+119.5178 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+119.5345 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+119.5510 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+119.5677 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+119.5697 	EXP 	New trial (rep=0, index=2): OrderedDict([('dirs', 'Online_conjL4_syn//bJA28.0.wav'), ('time', 0.0)])
+119.5818 	DATA 	Keypress: y
+119.5866 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+119.5866 	EXP 	text_13: autoDraw = False
+119.5866 	EXP 	text_13: autoDraw = True
+119.5866 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+119.6011 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+119.6178 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+119.6345 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+119.6512 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+119.6679 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+119.6846 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+119.7013 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+119.7180 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+119.7346 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+119.7513 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+119.7531 	EXP 	New trial (rep=0, index=3): OrderedDict([('dirs', 'Online_conjL4_syn//bJA31.none.wav'), ('time', 'none')])
+119.7735 	DATA 	Keypress: y
+119.7778 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+119.7778 	EXP 	text_13: autoDraw = False
+119.7778 	EXP 	text_13: autoDraw = True
+119.7778 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+119.7847 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+119.8013 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+119.8179 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+119.8346 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+119.8514 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+119.8681 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+119.8847 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+119.9014 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+119.9035 	EXP 	New trial (rep=0, index=29): OrderedDict([('cond', 'ja'), ('ord', '48:52'), ('colour', 'green')])
+119.9133 	EXP 	Imported directory_online_conj_L4_syn.csv as conditions, 4 conditions, 2 params
+119.9136 	EXP 	Created sequence: random, trialTypes=4, nReps=1, seed=None
+119.9139 	EXP 	New trial (rep=0, index=0): OrderedDict([('dirs', 'Online_conjL4_syn//bJA19.666.wav'), ('time', 666.0)])
+119.9334 	DATA 	Keypress: y
+119.9382 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+119.9382 	EXP 	text_13: autoDraw = False
+119.9382 	EXP 	text_2: text = 'ja'
+119.9382 	EXP 	text_2: autoDraw = True
+119.9382 	EXP 	text_2: autoDraw = False
+119.9382 	EXP 	text_2: autoDraw = False
+119.9382 	EXP 	text_13: autoDraw = True
+119.9382 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+119.9435 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+119.9516 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+119.9681 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+119.9849 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+120.0015 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+120.0184 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+120.0348 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+120.0517 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+120.0683 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+120.0849 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+120.0868 	EXP 	New trial (rep=0, index=1): OrderedDict([('dirs', 'Online_conjL4_syn//bJA17.none.wav'), ('time', 'none')])
+120.1033 	DATA 	Keypress: y
+120.1081 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+120.1081 	EXP 	text_13: autoDraw = False
+120.1081 	EXP 	text_13: autoDraw = True
+120.1081 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+120.1185 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+120.1351 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+120.1517 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+120.1684 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+120.1850 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+120.2016 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+120.2186 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+120.2352 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+120.2517 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+120.2540 	DATA 	Keypress: y
+120.2686 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+120.2703 	EXP 	New trial (rep=0, index=2): OrderedDict([('dirs', 'Online_conjL4_syn//bJA16.none.wav'), ('time', 'none')])
+120.2932 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+120.2932 	EXP 	text_13: autoDraw = False
+120.2932 	EXP 	text_13: autoDraw = True
+120.2932 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+120.3019 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+120.3186 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+120.3353 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+120.3520 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+120.3687 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+120.3852 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+120.4019 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+120.4187 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+120.4354 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+120.4373 	EXP 	New trial (rep=0, index=3): OrderedDict([('dirs', 'Online_conjL4_syn//bJA18.none.wav'), ('time', 'none')])
+120.4523 	DATA 	Keypress: y
+120.4564 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+120.4564 	EXP 	text_13: autoDraw = False
+120.4564 	EXP 	text_13: autoDraw = True
+120.4564 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+120.4688 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+120.4853 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+120.5019 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+120.5188 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+120.5355 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+120.5521 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+120.5687 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+120.5855 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+120.6022 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+120.6189 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+120.6209 	EXP 	New trial (rep=0, index=30): OrderedDict([('cond', 'ja'), ('ord', '40:44'), ('colour', 'green')])
+120.6296 	EXP 	Imported directory_online_conj_L4_syn.csv as conditions, 4 conditions, 2 params
+120.6299 	EXP 	Created sequence: random, trialTypes=4, nReps=1, seed=None
+120.6301 	EXP 	New trial (rep=0, index=0): OrderedDict([('dirs', 'Online_conjL4_syn//bJA9.none.wav'), ('time', 'none')])
+120.6546 	DATA 	Keypress: y
+120.6591 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+120.6591 	EXP 	text_13: autoDraw = False
+120.6591 	EXP 	text_2: text = 'ja'
+120.6591 	EXP 	text_2: autoDraw = True
+120.6591 	EXP 	text_2: autoDraw = False
+120.6591 	EXP 	text_2: autoDraw = False
+120.6591 	EXP 	text_13: autoDraw = True
+120.6591 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+120.6640 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+120.6688 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+120.6855 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+120.7022 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+120.7189 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+120.7357 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+120.7524 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+120.7691 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+120.7855 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+120.8024 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+120.8191 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+120.8213 	EXP 	New trial (rep=0, index=1): OrderedDict([('dirs', 'Online_conjL4_syn//bJA8.none.wav'), ('time', 'none')])
+120.8298 	DATA 	Keypress: y
+120.8358 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+120.8358 	EXP 	text_13: autoDraw = False
+120.8358 	EXP 	text_13: autoDraw = True
+120.8358 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+120.8523 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+120.8691 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+120.8857 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+120.9024 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+120.9194 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+120.9358 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+120.9526 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+120.9693 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+120.9859 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+121.0025 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+121.0042 	EXP 	New trial (rep=0, index=2): OrderedDict([('dirs', 'Online_conjL4_syn//bJA11.666.wav'), ('time', 666.0)])
+121.0135 	DATA 	Keypress: y
+121.0192 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+121.0192 	EXP 	text_13: autoDraw = False
+121.0192 	EXP 	text_13: autoDraw = True
+121.0192 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+121.0360 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+121.0527 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+121.0692 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+121.0859 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+121.1027 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+121.1197 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+121.1359 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+121.1527 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+121.1695 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+121.1860 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+121.1879 	EXP 	New trial (rep=0, index=3): OrderedDict([('dirs', 'Online_conjL4_syn//bJA10.0.wav'), ('time', 0.0)])
+121.1950 	DATA 	Keypress: y
+121.2026 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+121.2026 	EXP 	text_13: autoDraw = False
+121.2026 	EXP 	text_13: autoDraw = True
+121.2026 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+121.2196 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+121.2360 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+121.2528 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+121.2696 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+121.2862 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+121.3028 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+121.3197 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+121.3362 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+121.3529 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+121.3697 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+121.3862 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+121.3882 	EXP 	New trial (rep=0, index=31): OrderedDict([('cond', 'bu'), ('ord', '92:96'), ('colour', 'orange')])
+121.3988 	EXP 	Imported directory_online_conj_L4_syn.csv as conditions, 4 conditions, 2 params
+121.3991 	EXP 	Created sequence: random, trialTypes=4, nReps=1, seed=None
+121.3993 	EXP 	New trial (rep=0, index=0): OrderedDict([('dirs', 'Online_conjL4_syn//cBU29.none.wav'), ('time', 'none')])
+121.4281 	DATA 	Keypress: y
+121.4329 	EXP 	text_13: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+121.4329 	EXP 	text_13: autoDraw = False
+121.4329 	EXP 	text_2: height = 0.05
+121.4329 	EXP 	text_2: height = 0.05
+121.4329 	EXP 	text_2: height = 0.05
+121.4329 	EXP 	text_2: text = 'bu'
+121.4329 	EXP 	text_2: autoDraw = True
+121.4329 	EXP 	text_2: autoDraw = False
+121.4329 	EXP 	text_2: autoDraw = False
+121.4329 	EXP 	text_13: autoDraw = True
+121.4329 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+121.4378 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+121.4426 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+121.4531 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+121.4698 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+121.4865 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+121.5030 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+121.5198 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+121.5364 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+121.5530 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+121.5550 	EXP 	New trial (rep=0, index=1): OrderedDict([('dirs', 'Online_conjL4_syn//cBU28.none.wav'), ('time', 'none')])
+121.5646 	DATA 	Keypress: y
+121.5700 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+121.5700 	EXP 	text_13: autoDraw = False
+121.5700 	EXP 	text_13: autoDraw = True
+121.5700 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+121.5864 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+121.6031 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+121.6199 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+121.6366 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+121.6532 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+121.6700 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+121.6867 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+121.7033 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+121.7199 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+121.7366 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+121.7384 	EXP 	New trial (rep=0, index=2): OrderedDict([('dirs', 'Online_conjL4_syn//cBU30.0.wav'), ('time', 0.0)])
+121.7522 	DATA 	Keypress: y
+121.7567 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+121.7567 	EXP 	text_13: autoDraw = False
+121.7567 	EXP 	text_13: autoDraw = True
+121.7567 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+121.7704 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+121.7866 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+121.8034 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+121.8201 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+121.8367 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+121.8534 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+121.8702 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+121.8868 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+121.9034 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+121.9202 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+121.9221 	EXP 	New trial (rep=0, index=3): OrderedDict([('dirs', 'Online_conjL4_syn//cBU31.444.wav'), ('time', 444.0)])
+121.9319 	DATA 	Keypress: y
+121.9368 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+121.9368 	EXP 	text_13: autoDraw = False
+121.9368 	EXP 	text_13: autoDraw = True
+121.9368 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+121.9536 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+121.9702 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+121.9869 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+122.0036 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+122.0203 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+122.0368 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+122.0536 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+122.0703 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+122.0870 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+122.1036 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+122.1070 	DATA 	Keypress: y
+122.1221 	EXP 	text_13: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+122.1221 	EXP 	text_13: autoDraw = False
+122.1221 	EXP 	text_12: autoDraw = True
+122.2737 	DATA 	Keypress: y
+122.4573 	DATA 	Keypress: y
+123.0093 	DATA 	Keypress: space
+123.0230 	EXP 	text_12: autoDraw = False
+123.0230 	EXP 	text_14: autoDraw = True
+139.2927 	DATA 	Keypress: space
+139.3524 	EXP 	Imported Test_Conj_SyncL4.csv as conditions, 24 conditions, 1 params
+139.3533 	EXP 	Created sequence: random, trialTypes=24, nReps=1, seed=None
+139.3537 	EXP 	New trial (rep=0, index=0): OrderedDict([('test', 'testConjL4Syn//r1.s2.1.wav')])
+139.4103 	EXP 	text_14: autoDraw = False
+139.4103 	EXP 	text_17: autoDraw = True
+141.2249 	DATA 	Keypress: z
+142.3237 	EXP 	text_17: autoDraw = False
+142.4588 	DATA 	Keypress: space
+143.4782 	DATA 	Keypress: y
+143.4920 	EXP 	text_17: autoDraw = False
+143.4920 	EXP 	text_18: autoDraw = True
+143.9157 	DATA 	Keypress: z
+143.9208 	EXP 	text_18: autoDraw = False
+143.9208 	EXP 	text_32: autoDraw = True
+143.9208 	EXP 	image_2: autoDraw = True
+143.9208 	EXP 	text_33: autoDraw = True
+144.5623 	EXP 	New trial (rep=0, index=1): OrderedDict([('test', 'testConjL4Syn//dep_viol.r2.s2.0.wav')])
+144.5993 	DATA 	Keypress: 1
+144.6141 	EXP 	text_32: autoDraw = False
+144.6141 	EXP 	image_2: autoDraw = False
+144.6141 	EXP 	text_33: autoDraw = False
+144.6141 	EXP 	text_17: autoDraw = True
+145.2449 	DATA 	Keypress: escape
+146.1704 	EXP 	window1: mouseVisible = True

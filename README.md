@@ -12,9 +12,13 @@ Folder with all participants data and scripts used to clean the output logfiles 
 
 ## Material
 
-Folder with all scripts developed for the synthesis of the Artificial Languages stimuli, in all the experimental phases and instructions of usage to obtain them. The experiment and associated scripts are publicly available on Pavlovia at the link: https://gitlab.pavlovia.org/biancafranzoia/pilot_uns1
+Folder with all scripts developed for the synthesis of the Artificial Languages stimuli, in all the experimental phases and instructions of usage to obtain them.
+
+## Experiment Pavlovia
+
+Experiment folder pushed in Pavlovia. To allow anonymization during the reviw process we didn't share the Pavlovia link.
 
 ## Citation
 
 Please cite our work as: still to be pubblished.
-
+ 

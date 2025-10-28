@@ -1,0 +1,16 @@
+﻿key_resp1.keys,key_resp1.rt,participant,session,group,date,expName,psychopyVersion,OS,frameRate,key_resp_6.keys,key_resp_6.rt,key_resp_10.keys,key_resp_10.rt,key_ressp2.keys,key_ressp2.rt,key_resp_9.keys,key_resp_9.rt,key_resp_3.keys,key_resp_3.rt,key_resp1_2.keys,key_resp1_2.rt,key_resp1_3.keys,key_resp1_3.rt,key_resp_11.keys,key_resp_11.rt,key_resp_12.keys,key_resp_12.rt,key_resp_18.keys,key_resp_18.rt,key_resp_7.keys,key_resp_7.rt,key_resp1_4.keys,key_resp1_4.rt,syllable_catch.keys,key_resp_16.keys,audio1.thisRepN,audio1.thisTrialN,audio1.thisN,audio1.thisIndex,audio1.ran,dirs,timeA,timeB,s1,s2,s3,s4,s5,s6,s7,s8,s9,s10,s11,Conj_unsync_online.thisRepN,Conj_unsync_online.thisTrialN,Conj_unsync_online.thisN,Conj_unsync_online.thisIndex,Conj_unsync_online.ran,condA,condB,ord,colour
+space,1.725,202497,001,B,2023-06-20_18h46.20.852,Unsyncopated1,2022.2.5,MacIntel,63.37135615,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,202497,001,B,2023-06-20_18h46.20.852,Unsyncopated1,2022.2.5,MacIntel,63.37135615,space,1.563,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,202497,001,B,2023-06-20_18h46.20.852,Unsyncopated1,2022.2.5,MacIntel,63.37135615,,,space,1.002,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,202497,001,B,2023-06-20_18h46.20.852,Unsyncopated1,2022.2.5,MacIntel,63.37135615,,,,,space,0.796,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,202497,001,B,2023-06-20_18h46.20.852,Unsyncopated1,2022.2.5,MacIntel,63.37135615,,,,,,,space,1.949,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,202497,001,B,2023-06-20_18h46.20.852,Unsyncopated1,2022.2.5,MacIntel,63.37135615,,,,,,,,,space,3.605,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,202497,001,B,2023-06-20_18h46.20.852,Unsyncopated1,2022.2.5,MacIntel,63.37135615,,,,,,,,,,,space,5.208,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,202497,001,B,2023-06-20_18h46.20.852,Unsyncopated1,2022.2.5,MacIntel,63.37135615,,,,,,,,,,,,,space,1.045,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,202497,001,B,2023-06-20_18h46.20.852,Unsyncopated1,2022.2.5,MacIntel,63.37135615,,,,,,,,,,,,,,,space,1.549,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,202497,001,B,2023-06-20_18h46.20.852,Unsyncopated1,2022.2.5,MacIntel,63.37135615,,,,,,,,,,,,,,,,,space,1.283,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,202497,001,B,2023-06-20_18h46.20.852,Unsyncopated1,2022.2.5,MacIntel,63.37135615,,,,,,,,,,,,,,,,,,,space,1.639,space,12.428,space,2.551,,,0,0,0,2,1,Online_conjL1_un//c.ro.fo18.1776.222.wav,1776,222,ta,fo,ni,sil,be,cho,zu,sil1,ro,ne,sil2,,,,,,,,,
+,,202497,001,B,2023-06-20_18h46.20.852,Unsyncopated1,2022.2.5,MacIntel,63.37135615,,,,,,,,,,,,,,,,,,,,,,,,,,,0,1,1,1,1,Online_conjL1_un//c.ro.fo17.none.none.wav,none,none,cho,lu,zu,sil,pu,ze,ni,sil1,ki,la,sil2,,,,,,,,,
+,,202497,001,B,2023-06-20_18h46.20.852,Unsyncopated1,2022.2.5,MacIntel,63.37135615,,,,,,,,,,,,,,,,,,,,,,,,,,,0,2,2,3,1,Online_conjL1_un//c.ro.fo19.none.none.wav,none,none,cho,ne,zu,sil,ta,fa,lu,sil1,be,ze,sil2,,,,,,,,,
+,,202497,001,B,2023-06-20_18h46.20.852,Unsyncopated1,2022.2.5,MacIntel,63.37135615,,,,,,,,,,,,,,,,,,,,,,,,,,,0,3,3,0,1,Online_conjL1_un//c.ro.fo16.none.none.wav,none,none,ta,lu,fa,sil,be,zu,ze,sil1,ne,cho,sil2,,,,,,,,,
+,,202497,001,B,2023-06-20_18h46.20.852,Unsyncopated1,2022.2.5,MacIntel,63.37135615,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,18,1,ro,fo,80:84,green
