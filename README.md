@@ -1,5 +1,5 @@
 
-# Reproducible Code for Beat perception: a window into the attentional mechansisms supporting the detection of non-adjacent dependencies in speech. 
+# Reproducible code for Beat perception: a window into the attentional mechansisms supporting the detection of non-adjacent dependencies in speech. 
 
 
 ## Analysis
